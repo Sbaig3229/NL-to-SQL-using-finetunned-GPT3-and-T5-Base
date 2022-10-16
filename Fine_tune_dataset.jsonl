@@ -1,0 +1,988 @@
+{"prompt":"What is the Desc_country where finrep is Yes-GAAP ->","completion":" select desc_country from table where finrep = yes-gaap\n"}
+{"prompt":"What is NSA where period is 202015 ->","completion":" select nsa from table where period = 202015\n"}
+{"prompt":"What is the Sum of Amount ->","completion":" select sum amount from table\n"}
+{"prompt":"Display the  SUM of Amount where Name is HASPA Finanzholding ->","completion":" select sum amount from table where name = hhsa\n"}
+{"prompt":"What is the Desc_country where finrep is Yes ->","completion":" select desc_country from table where finrep = yes\n"}
+{"prompt":"Return SUM of Amount where Name is Abanca Corporacion Bancaria, S.A.. ->","completion":" select sum amount from table where name = abanca corpor\n"}
+{"prompt":"Display the  SUM of Amount where Name is Biser Topco S.Ã  r.l. ->","completion":" select sum amount from table where name = biser topco \n"}
+{"prompt":"What is the SUM of Amount where Name is Magyar Bankholding ->","completion":" select sum amount from table where name = magyar bankholding\n"}
+{"prompt":"What is the average number of honorary professors in the economics department with 1 lecturer? ->","completion":" select avg honorary professors from table where lecturers = 1 and department = economics\n"}
+{"prompt":"Return SUM of Amount where Name is Kutxabank, S.A ->","completion":" select sum amount from table where name = kutxa\n"}
+{"prompt":"Return SUM of Amount where Name is Unicaja Banco, S.A. ->","completion":" select sum amount from table where name = unicaja banco\n"}
+{"prompt":"What is the average value for Top-5, when the value Cuts is 5, and when the tournament is the Open Championship, and when the value Events is less than 6? ->","completion":" select avg top-5 from table where cuts made = 5 and tournament = the open championship and events < 6\n"}
+{"prompt":"What is the points for where the tries for is 29? ->","completion":" select points for from table where tries for = 29\n"}
+{"prompt":"What is the SUM of Amount where Name is Luminor Holding AS ->","completion":" select sum amount from table where name = luminor holding\n"}
+{"prompt":"What is NSA where Label is 202009 ->","completion":" select nsa from table where label = 202009\n"}
+{"prompt":"Name the years for marton and decile of 3 for turakina maori girls' college? ->","completion":" select years from table where area = marton and decile = 3 and name = turakina maori girls' college\n"}
+{"prompt":"What district has counties represented by Baltimore county, a committee of health and government operations, and a first elected smaller than 2002? ->","completion":" select district from table where counties represented = baltimore county and committee = health and government operations and first elected < 2002\n"}
+{"prompt":"Display the Period where Amount is greater than 10000 ->","completion":" select period from table where amount > 10000\n"}
+{"prompt":"What is the Desc Country where Label is Transitional adjustments ->","completion":" select desc country from table where label = transitional adjustments\n"}
+{"prompt":"What is NSA where period is 202012 ->","completion":" select nsa from table where period = 202012\n"}
+{"prompt":"Display the  SUM of Amount where Name is Banco Santander, S.A.. ->","completion":" select sum amount from table where name = banco sant\n"}
+{"prompt":"What is the sum of the value Top-10 that has a Cuts value of 2 and a Wins value smaller than 0? ->","completion":" select sum top-10 from table where cuts made = 2 and wins < 0\n"}
+{"prompt":"Value of Amount where LEI_Code is 0W2PZJM8XOY22M4GG889 ->","completion":" select amount from table where lei_code = 0w20w2pzjm8xoy22m4gg889\n"}
+{"prompt":"Show Desc Country where Label is Adjustments to CET1 due to prudential filters ->","completion":" select desc country from table where label = adjustments to cet1\n"}
+{"prompt":"What is the SUM of Amount where Name is MDB Group Limited ->","completion":" select sum amount from table where name = mbg group\n"}
+{"prompt":"Display the  SUM of Amount where Name is Abanca Corporacion Bancaria, S.A.. ->","completion":" select sum amount from table where name = abanca corpor\n"}
+{"prompt":"What place has Canada as the country? ->","completion":" select place from table where country = canada\n"}
+{"prompt":"Display the Period where Amount is lesser than 10000 ->","completion":" select period from table where amount < 10000\n"}
+{"prompt":"Who was the host team for the game with the final score of 26-24? ->","completion":" select host team from table where final score = 26-24\n"}
+{"prompt":"What is the frequency with 900w power? ->","completion":" select frequency from table where power = 900w\n"}
+{"prompt":"What is the SUM of Amount where Name is RBC Investor Services Bank S.A. ->","completion":" select sum amount from table where name = rbc investor\n"}
+{"prompt":"What was the extra info for the Commonwealth Games? ->","completion":" select extra from table where tournament = commonwealth games\n"}
+{"prompt":"What is the SUM of Amount where Name is Abanca Corporacion Bancaria, S.A.. ->","completion":" select sum amount from table where name = abanca corpor\n"}
+{"prompt":"What is the SUM of Amount where Name is Akciju sabiedriba \"Citadele banka\" ->","completion":" select sum amount from table where name = akciju\n"}
+{"prompt":"Get the country where Item is 2121005 ->","completion":" select country from table where item = 2121005\n"}
+{"prompt":"What Loss had an Attendance of 17,675? ->","completion":" select loss from table where attendance = 17,675\n"}
+{"prompt":"Display total LEI_Code ->","completion":" select * from lei_code\n"}
+{"prompt":"Display the Label where Amount is lesser than 10000 ->","completion":" select label from table where amount < 10000\n"}
+{"prompt":"Return SUM of Amount where Name is Volkswagen Bank Gesellschaft mit beschrÃ¤nkter Haftung ->","completion":" select sum amount from table where name = volkswagen bank gesellschaft mit be\n"}
+{"prompt":"Get the country where Item is 2121007 ->","completion":" select country from table where item = 2121007\n"}
+{"prompt":"What is NSA where period is 202010 ->","completion":" select nsa from table where period = 202010\n"}
+{"prompt":"Return SUM of Amount where Name is J.P. Morgan AG ->","completion":" select sum amount from table where name = j.p.\n"}
+{"prompt":"Which of the participating clubs had 73 tries for? ->","completion":" select club from table where tries for = 73\n"}
+{"prompt":"Return SUM of Amount where Name is RBC Investor Services Bank S.A. ->","completion":" select sum amount from table where name = rbc investor\n"}
+{"prompt":"What category was Joe Jonas nominated for at the Kids' Choice Awards Mexico in 2010? ->","completion":" select category from table where result = nominated and year = 2010 and award = kids' choice awards mexico and recipient(s) = joe jonas\n"}
+{"prompt":"What is the SUM of Amount where Name is Volkswagen Bank Gesellschaft mit beschrÃ¤nkter Haftung ->","completion":" select sum amount from table where name = volkswagen bank gesellschaft mit be\n"}
+{"prompt":"Get the country where Item is 2121008 ->","completion":" select country from table where item = 2121008\n"}
+{"prompt":"What is the lowest value for Events, when the value for Top-5 is greater than 1? ->","completion":" select min events from table where top-5 > 1\n"}
+{"prompt":"Display all values where Name is Ibercaja Banco, S.A. ->","completion":" select * from table where name = ibercaja banco,\n"}
+{"prompt":"Get the country where Item is 2121012 ->","completion":" select country from table where item = 2121012\n"}
+{"prompt":"What are the Desc_Country where Label is Total Assets ->","completion":" select desc_country from table where label = total assets\n"}
+{"prompt":"What is the Amount where Label is COMMON EQUITY TIER 1 CAPITAL ->","completion":" select amount from table where label = common equity t\n"}
+{"prompt":"Where did arturo segovia compete? ->","completion":" select location from table where opponent = arturo segovia\n"}
+{"prompt":"Display the  SUM of Amount where Name is Akcine bendrove Å iauliu bankas. ->","completion":" select sum amount from table where name = akcine bendro\n"}
+{"prompt":"Which player has 69 as the score? ->","completion":" select player from table where score = 69\n"}
+{"prompt":"Name the average total medals with ensemble of goshen hs ->","completion":" select avg total medals from table where ensemble = goshen hs\n"}
+{"prompt":"What Loss occured on the Date of June 12? ->","completion":" select loss from table where date = june 12\n"}
+{"prompt":"How many full professors work under Hartmut Kliemt with more than 0 lecturers? ->","completion":" select count full professors from table where head = hartmut kliemt and lecturers > 0\n"}
+{"prompt":"What counties represented have a democratic committee, and a committee of ways and means? ->","completion":" select counties represented from table where party = democratic and committee = ways and means\n"}
+{"prompt":"Which type had the unit greifswald - 7 (kgr 7) ? ->","completion":" select type from table where unit = greifswald - 7 (kgr 7)\n"}
+{"prompt":"What is the Desc_country where Label is COMMON EQUITY TIER 1 CAPITAL ->","completion":" select desc_country from table where label = common equ\n"}
+{"prompt":"what is desc_country where Amount is 19655.04 ->","completion":" select desc_country from table where amount = 19655.04\n"}
+{"prompt":"Display the LEI_Code where Amount is lesser than 10000 ->","completion":" select lei_code from table where amount < 10000\n"}
+{"prompt":"Display the LEI_Code where Amount is greater than 10000 ->","completion":" select lei_code from table where amount > 10000\n"}
+{"prompt":"What is the SUM of Amount where Name is Banco Santander, S.A.. ->","completion":" select sum amount from table where name = banco sant\n"}
+{"prompt":"What is the average score with lee westwood as the player? ->","completion":" select avg score from table where player = lee westwood\n"}
+{"prompt":"Locate the values of Desc Country where Label is (-) Amount exceding the 17.65% threshold ->","completion":" select desc country from table where label = (-) amount exc\n"}
+{"prompt":"Display the  SUM of Amount where Name is Sberbank Europe AG ->","completion":" select sum amount from table where name = sberbank european\n"}
+{"prompt":"What is the Name where Desc_country is Austria ->","completion":" select name from table where desc_country = austria\n"}
+{"prompt":"In which category did Nick Jonas win at the Kids' Choice Awards Mexico? ->","completion":" select category from table where recipient(s) = nick jonas and award = kids' choice awards mexico\n"}
+{"prompt":"Return SUM of Amount where Name is Bank of Valletta Plc ->","completion":" select sum amount from table where name = bank of valletta\n"}
+{"prompt":"What is the latesr year that has more points than 0? ->","completion":" select max year from table where pts. > 0\n"}
+{"prompt":"What would be the correct year in the 1940s, if the 1980s is before 1986, the 1990s is before 1995, the 1970s is before 1973, and the 2000s are after 2001? ->","completion":" select 1940s from table where 1980s < 1986 and 1990s < 1995 and 1970s < 1973 and 2000s > 2001\n"}
+{"prompt":"What is the Desc Country where Label is Funds for general banking risk ->","completion":" select desc country from table where label = funds for general banking risk\n"}
+{"prompt":"Value of Amount where LEI_Code is 0W2PZJM8XOY22M4GG886 ->","completion":" select amount from table where lei_code = 0w2pzjm8xoy22m4gg886\n"}
+{"prompt":"What is the points for of Club of penallta rfc? ->","completion":" select points for from table where club = penallta rfc\n"}
+{"prompt":"What is Finrep where Period is 202106 ->","completion":" select finrep from table where period = 202106\n"}
+{"prompt":"Display the Label where Amount is 10000 ->","completion":" select label from table where amount = 10000\n"}
+{"prompt":"What was the net power, when the type was wwer-440\/230, and when construction was finished on 24.10.1977? ->","completion":" select net power from table where type = wwer-440\/230 and finish construction = 24.10.1977\n"}
+{"prompt":"Who had fewer goals than 4 during the years of 1996–13? ->","completion":" select min goals from table where ranking < 4 and years = 1996–13\n"}
+{"prompt":"Return the max of the Item ->","completion":" select max item from table\n"}
+{"prompt":"What is the Amount where Name is Magyar Bankholding ->","completion":" select amount from table where name = magyar bankholding\n"}
+{"prompt":"Return SUM of Amount where Name is HASPA Finanzholding ->","completion":" select sum amount from table where name = hhsa\n"}
+{"prompt":"what is desc_country where Amount is 19655.06 ->","completion":" select desc_country from table where amount = 19655.06\n"}
+{"prompt":"what is the top-5 when the tournament is totals and the top-25 is more than 4? ->","completion":" select avg top-5 from table where tournament = totals and top-25 > 4\n"}
+{"prompt":"What is the starting point of the route that has its terminus at Ecat\/Rosa Park Transit Center? ->","completion":" select starting point from table where terminus = ecat\/rosa park transit center\n"}
+{"prompt":"Display the NSA where Amount is lesser than 10000 ->","completion":" select min nsa from table where amount < 10000\n"}
+{"prompt":"Return SUM of Amount where Name is HSBC Bank Malta p.l.c. ->","completion":" select sum amount from table where name = hsbc bank malta\n"}
+{"prompt":"What is the Desc Country where Label is Other Reserves ->","completion":" select desc country from table where label = other reserves\n"}
+{"prompt":"Return SUM of Amount where Name is Jyske Bank A\/S ->","completion":" select sum amount from table where name = jyske bank\n"}
+{"prompt":"Return SUM of Amount where Name is MDB Group Limited ->","completion":" select sum amount from table where name = mbg group\n"}
+{"prompt":"What is the PI code in the hindhead area? ->","completion":" select pi code from table where area = hindhead\n"}
+{"prompt":"Which main cast seasons were portrayed by Joe Jonas? ->","completion":" select main cast seasons from table where portrayed by = joe jonas\n"}
+{"prompt":"Return SUM of Amount where Name is Sberbank Europe AG ->","completion":" select sum amount from table where name = sberbank european\n"}
+{"prompt":"Show Amount where NSA is BG ->","completion":" select sum amount from table where nsa = bg\n"}
+{"prompt":"Return the max of the Amount ->","completion":" select max amount from table\n"}
+{"prompt":"Display Desc Country where Label is Funds for general banking risk ->","completion":" select desc country from table where label = funds for general banking risk\n"}
+{"prompt":"What is the SUM of Amount where Name is HSBC Bank Malta p.l.c. ->","completion":" select sum amount from table where name = hsbc bank malta\n"}
+{"prompt":"what is the lowest top-25 when the events is less than 17 and top-5 is more than 0? ->","completion":" select min top-25 from table where events < 17 and top-5 > 0\n"}
+{"prompt":"What event ended in 3:02 of round 1? ->","completion":" select event from table where round = 1 and time = 3:02\n"}
+{"prompt":"Get the country where Item is 2121001 ->","completion":" select country from table where item = 2121001\n"}
+{"prompt":"What is the total number of First elected that has a country represented in Baltimore county, a district of 06.0 6, and a committee of economic matters? ->","completion":" select count first elected from table where counties represented = baltimore county and district = 06.0 6 and committee = economic matters\n"}
+{"prompt":"Display the  SUM of Amount where Name is HSBC Bank Malta p.l.c. ->","completion":" select sum amount from table where name = hsbc bank malta\n"}
+{"prompt":"What is the Finrep where Label is COMMON EQUITY TIER 1 CAPITAL ->","completion":" select finrep from table where label = common equity\n"}
+{"prompt":"what is desc_country where Amount is 19655.01 ->","completion":" select desc_country from table where amount = 19655.01\n"}
+{"prompt":"What was the Score that has an Attendance of 39,446? ->","completion":" select score from table where attendance = 39,446\n"}
+{"prompt":"What is the SUM of Amount where Name is Landsbankinn hf. ->","completion":" select sum amount from table where name = landsbankinn\n"}
+{"prompt":"Get the country where Item is 2121006 ->","completion":" select country from table where item = 2121006\n"}
+{"prompt":"Before 1976 and with 12 points, what chassis did the Ford V8 have? ->","completion":" select chassis from table where engine = ford v8 and year < 1976 and points = 12\n"}
+{"prompt":"Who has the highest ranking from  1996–13, and more than 17 goals? ->","completion":" select max ranking from table where years = 1996–13 and goals > 17\n"}
+{"prompt":"Display the  SUM of Amount where Name is KBC Groep ->","completion":" select sum amount from table where name = kbc \n"}
+{"prompt":"Name the 2006 when the 2010 is 27 ->","completion":" select 2006 from table where 2010 = 27\n"}
+{"prompt":"What is the SUM of Amount where Name is Kutxabank, S.A ->","completion":" select sum amount from table where name = kutxa\n"}
+{"prompt":"Return SUM of Amount where Name is Magyar Bankholding ->","completion":" select sum amount from table where name = magyar bankholding\n"}
+{"prompt":"What is the top fastest time, larger than 2, in Enugu? ->","completion":" select max fastest time (s) from table where location = enugu and rank > 2\n"}
+{"prompt":"Locate values of Desc Country where Label is Accumulated other comprehensive income ->","completion":" select desc country from table where label = accumulated other comprehensive\n"}
+{"prompt":"How many losses were there with 208 points? ->","completion":" select lost from table where points for = 208\n"}
+{"prompt":"Return the values of Desc Country where Label is Funds for general banking risk ->","completion":" select desc country from table where label = funds for general banking risk\n"}
+{"prompt":"What is the SUM of Amount where Name is J.P. Morgan AG ->","completion":" select sum amount from table where name = j.p.\n"}
+{"prompt":"Display the  SUM of Amount where Name is Kutxabank, S.A ->","completion":" select sum amount from table where name = kutxa\n"}
+{"prompt":"What is the range for the 1980s that correspond to a grid 1910s of 1912, and a 1940s before 1942 ->","completion":" select avg 1980s from table where 1910s = 1912 and 1940s < 1942\n"}
+{"prompt":"What is the SUM of Amount where Name is Nordea Bank Abp ->","completion":" select sum amount from table where name = nordea bank ab\n"}
+{"prompt":"Display the Label where Amount is -10000 ->","completion":" select label from table where amount = -10000\n"}
+{"prompt":"Which host team played against the New England Patriots? ->","completion":" select host team from table where visiting team = new england patriots\n"}
+{"prompt":"Display the  SUM of Amount where Name is Landsbankinn hf. ->","completion":" select sum amount from table where name = landsbankinn\n"}
+{"prompt":"Who was the opponent in the game where the attendance was larger than 23,230 and the record was 56-37? ->","completion":" select opponent from table where attendance > 23,230 and record = 56-37\n"}
+{"prompt":"Who is the entrant with a cooper t43 chassis before 1958? ->","completion":" select entrant from table where year < 1958 and chassis = cooper t43\n"}
+{"prompt":"Show all data where Label is (Depreciation) ->","completion":" select * from table where label = (depreciation)\n"}
+{"prompt":"What character is portrayed by Joe Jonas? ->","completion":" select character from table where portrayed by = joe jonas\n"}
+{"prompt":"Value of Amount where LEI_Code is 0W2PZJM8XOY22M4GG888 ->","completion":" select amount from table where lei_code = 0w20w2pzjm8xoy22m4gg888\n"}
+{"prompt":"What is the Desc Country where Label is TOTAL RISK EXPOSURE AMOUNT ->","completion":" select desc country from table where label = total risk e\n"}
+{"prompt":"Locate the values of Desc Country where Label is Transitional adjustments ->","completion":" select desc country from table where label = transitional adjustments\n"}
+{"prompt":"What is the award for the Choice TV: Breakout Star Female category? ->","completion":" select award from table where category = choice tv: breakout star female\n"}
+{"prompt":"Return SUM of Amount where Name is Citibank Holdings Ireland Limited ->","completion":" select sum amount from table where name = cibank holding\n"}
+{"prompt":"What is the average first elected year that has a district of 11 and a committee of environmental matters? ->","completion":" select avg first elected from table where district = 11 and committee = environmental matters\n"}
+{"prompt":"Display the  SUM of Amount where Name is State Street Europe Holdings Germany S.a.r.l. & Co. KG ->","completion":" select sum amount from table where name = state street european holdings\n"}
+{"prompt":"Return the max of the Period ->","completion":" select max period from table\n"}
+{"prompt":"Display the Label where Amount is greater than 10000 ->","completion":" select label from table where amount > 10000\n"}
+{"prompt":"Display the  SUM of Amount where Name is Akciju sabiedriba \"Citadele banka\" ->","completion":" select sum amount from table where name = akciju\n"}
+{"prompt":"What is the SUM of Amount where Name is LSF Nani Investments S.Ã  r.l. ->","completion":" select sum amount from table where name = lsf \n"}
+{"prompt":"Return SUM of Amount where Name is BAWAG Group AG ->","completion":" select sum amount from table where name = bawag group\n"}
+{"prompt":"Which nation had 14 goals? ->","completion":" select nationality from table where goals = 14\n"}
+{"prompt":"What is the SUM of Amount where Name is Bank Polska Kasa Opieki S.A. ->","completion":" select sum amount from table where name = bank polska \n"}
+{"prompt":"Display the NSA where Amount is greater than 10000 ->","completion":" select min nsa from table where amount > 10000\n"}
+{"prompt":"What nationality is hamzah idris? ->","completion":" select nationality from table where name = hamzah idris\n"}
+{"prompt":"Display total Name ->","completion":" select * from name\n"}
+{"prompt":"Return SUM of Amount where Name is ALPHA SERVICES AND HOLDINGS S.A. ->","completion":" select sum amount from table where name = alpha services\n"}
+{"prompt":"What is Joe Jonas' result at the Kids' Choice Awards Mexico? ->","completion":" select result from table where recipient(s) = joe jonas and award = kids' choice awards mexico\n"}
+{"prompt":"What was the amount of draws where a club had 51 tries for? ->","completion":" select drawn from table where tries for = 51\n"}
+{"prompt":"Which bi-directional route has a terminus at Ecat\/Rosa Park Transit Center? ->","completion":" select name from table where direction = bi-directional and terminus = ecat\/rosa park transit center\n"}
+{"prompt":"Display the  SUM of Amount where Name is Luminor Holding AS ->","completion":" select sum amount from table where name = luminor holding\n"}
+{"prompt":"Value of Amount where LEI_Code is 0W2PZJM8XOY22M4GG884 ->","completion":" select amount from table where lei_code = 0w2pzjm8xoy22m4gg884\n"}
+{"prompt":"Name the total number of bronze medals when gold medals was 2, total medals more than 4 and silver medals less than 5 ->","completion":" select count bronze medals from table where gold medals = 2 and total medals > 4 and silver medals < 5\n"}
+{"prompt":"Display Desc Country where Label is TOTAL RISK EXPOSURE AMOUNT ->","completion":" select desc country from table where label = total risk e\n"}
+{"prompt":"Display the  SUM of Amount where Name is Bank of Valletta Plc ->","completion":" select sum amount from table where name = bank of valletta\n"}
+{"prompt":"Who was from Morocco and scored 6 goals? ->","completion":" select name from table where goals = 6 and nationality = morocco\n"}
+{"prompt":"What is the Desc Country where Label is Tier 2 Capital instruments ->","completion":" select desc country from table where label = tier 2 capital instruments\n"}
+{"prompt":"What is the Desc Country where Label is (-) Amount exceding the 17.65% threshold ->","completion":" select desc country from table where label = (-) amount exc\n"}
+{"prompt":"When was the game played in which the record was 46-29? ->","completion":" select date from table where record = 46-29\n"}
+{"prompt":"How many episodes had the character of Nick Lucas? ->","completion":" select sum # of episodes from table where character = nick lucas\n"}
+{"prompt":"Display the  SUM of Amount where Name is LSF Nani Investments S.Ã  r.l. ->","completion":" select sum amount from table where name = lsf \n"}
+{"prompt":"what is the number of values in LEI_Code ->","completion":" select count lei_code from table\n"}
+{"prompt":"Show Desc Country where Label is Other Reserves ->","completion":" select desc country from table where label = other reserves\n"}
+{"prompt":"Display the  SUM of Amount where Name is Citibank Holdings Ireland Limited ->","completion":" select sum amount from table where name = cibank holding\n"}
+{"prompt":"Name the years with authority of state and decile more than 6 with roll less than 33 ->","completion":" select years from table where authority = state and decile > 6 and roll < 33\n"}
+{"prompt":"Get the country where Item is 2121009 ->","completion":" select country from table where item = 2121009\n"}
+{"prompt":"Get the country where Item is 2121013 ->","completion":" select country from table where item = 2121013\n"}
+{"prompt":"What is the points against for the team that played 22 and lost 6? ->","completion":" select points against from table where played = 22 and lost = 6\n"}
+{"prompt":"Display all values where Name is DekaBank Deutsche Girozentrale ->","completion":" select * from table where name = dekabank german girozentrale\n"}
+{"prompt":"Return SUM of Amount where Name is Precision Capital S.A. ->","completion":" select sum amount from table where name = precision capital s.\n"}
+{"prompt":"Return SUM of Amount where Name is Nordea Bank Abp ->","completion":" select sum amount from table where name = nordea bank ab\n"}
+{"prompt":"What is the SUM of Amount where Name is Sberbank Europe AG ->","completion":" select sum amount from table where name = sberbank european\n"}
+{"prompt":"Return SUM of Amount where Name is Raiffeisenbankengruppe OÃ– Verbund eGen ->","completion":" select sum amount from table where name = raffeis\n"}
+{"prompt":"Return SUM of Amount where Name is Erwerbsgesellschaft der S-Finanzgruppe mbH & Co. KG ->","completion":" select sum amount from table where name = erwerbsgesellschaft der s\n"}
+{"prompt":"what is desc_country where Amount is 19655.03 ->","completion":" select desc_country from table where amount = 19655.03\n"}
+{"prompt":"Display the Desc_country where Amount is greater than 10000 ->","completion":" select desc_country from table where amount > 10000\n"}
+{"prompt":"Where does the Bayou Blvd.\/12th Avenue route that has a terminus at the downtown transit center operate? ->","completion":" select operates from table where terminus = downtown transit center and name = bayou blvd.\/12th avenue\n"}
+{"prompt":"Which club participated with a record of 45 tries against? ->","completion":" select club from table where tries against = 45\n"}
+{"prompt":"What year was the Commonwealth Games? ->","completion":" select sum year from table where tournament = commonwealth games\n"}
+{"prompt":"What is the SUM of Amount where Name is KBC Groep ->","completion":" select sum amount from table where name = kbc \n"}
+{"prompt":"What is the SUM of Amount where Name is Investeringsmaatschappij Argenta ->","completion":" select sum amount from table where name = investerings\n"}
+{"prompt":"What is the highest round reached by an oppo ent of JR schumacher? ->","completion":" select max round from table where opponent = jr schumacher\n"}
+{"prompt":"At what stadium was the game with the final score of 26-24 played? ->","completion":" select stadium from table where final score = 26-24\n"}
+{"prompt":"Display the Country where Amount is lesser than 10000 ->","completion":" select country from table where amount < 10000\n"}
+{"prompt":"What was the Loss that had a Score of 9-1? ->","completion":" select loss from table where score = 9-1\n"}
+{"prompt":"Return SUM of Amount where Name is DekaBank Deutsche Girozentrale ->","completion":" select sum amount from table where name = dekabank german \n"}
+{"prompt":"What is the Desc Country where Label is Retained earnings ->","completion":" select desc country from table where label = retained earnings\n"}
+{"prompt":"Get the country where Item is 2121003 ->","completion":" select country from table where item = 2121003\n"}
+{"prompt":"What is NSA where period is 202014 ->","completion":" select nsa from table where period = 202014\n"}
+{"prompt":"Display the  SUM of Amount where Name is DekaBank Deutsche Girozentrale ->","completion":" select sum amount from table where name = dekabank german \n"}
+{"prompt":"Display the  SUM of Amount where Name is MDB Group Limited ->","completion":" select sum amount from table where name = mbg group\n"}
+{"prompt":"what is the total number of times the tournament was pga championship and evens is less than 4? ->","completion":" select count top-5 from table where tournament = pga championship and events < 4\n"}
+{"prompt":"What is the SUM of Amount where Name is Jyske Bank A\/S ->","completion":" select sum amount from table where name = jyske bank\n"}
+{"prompt":"What year did Elf Team Tyrrell have 34 points? ->","completion":" select avg year from table where entrant = elf team tyrrell and points = 34\n"}
+{"prompt":"Return SUM of Amount where Name is Investeringsmaatschappij Argenta ->","completion":" select sum amount from table where name = investerings\n"}
+{"prompt":"what is the average number of events when the top-5 is less than 1 and top 25 more than 1 ->","completion":" select avg events from table where top-5 < 1 and top-25 > 1\n"}
+{"prompt":"What is the Desc Country where Label is Adjustments to CET1 due to prudential filters ->","completion":" select desc country from table where label = adjustments to cet1\n"}
+{"prompt":"Where there any Draws with 45 tries against? ->","completion":" select drawn from table where tries against = 45\n"}
+{"prompt":"What was the average ranking of Saudi Arabia in the years of 2000–? ->","completion":" select avg ranking from table where nationality = saudi arabia and years = 2000–\n"}
+{"prompt":"What are the Desc_country where Amount is less than 5236.507731 ->","completion":" select desc_country from table where amount  5236.\n"}
+{"prompt":"At what stadium was the game with the final score of 9-23 played? ->","completion":" select stadium from table where final score = 9-23\n"}
+{"prompt":"Display highest value from Amount ->","completion":" select max amount from table\n"}
+{"prompt":"What is the starting point of the north\/south operating Palafox Street route? ->","completion":" select starting point from table where operates = north\/south and name = palafox street\n"}
+{"prompt":"what is desc_country where Amount is 19655.02 ->","completion":" select desc_country from table where amount = 19655.02\n"}
+{"prompt":"What chassis had 39 points? ->","completion":" select chassis from table where points = 39\n"}
+{"prompt":"What is the latest year that has an engine of cosworth v8, with a chassis of hesketh 308e? ->","completion":" select max year from table where engine = cosworth v8 and chassis = hesketh 308e\n"}
+{"prompt":"Display the Country where Amount is greater than 10000 ->","completion":" select country from table where amount > 10000\n"}
+{"prompt":"Show Desc Country where Label is COMMON EQUITY TIER 1 CAPITAL (net of deductions and after applying transitional adjustments) ->","completion":" select desc country from table where label = common equity\n"}
+{"prompt":"What are the Label where Desc_country is Greece ->","completion":" select label from table where desc_country = greece\n"}
+{"prompt":"Show Desc Country where Label is OWN FUNDS ->","completion":" select desc country from table where label = own funds\n"}
+{"prompt":"Display the  SUM of Amount where Name is BAWAG Group AG ->","completion":" select sum amount from table where name = bawag group\n"}
+{"prompt":"How many casualties were from the IED circumstance? ->","completion":" select casualties from table where circumstances = ied\n"}
+{"prompt":"what is desc_country where Amount is 19655.05 ->","completion":" select desc_country from table where amount = 19655.05\n"}
+{"prompt":"Display Desc Country where Label is Financial assets at fair value through other comprehensive income ->","completion":" select desc country from table where label = financial assets at fair value through\n"}
+{"prompt":"Who was the host team on November 17? ->","completion":" select host team from table where date = november 17\n"}
+{"prompt":"What is the Name where Period is 202012 ->","completion":" select name from table where period = 202012\n"}
+{"prompt":"Return SUM of Amount where Name is Landsbankinn hf. ->","completion":" select sum amount from table where name = landsbankinn\n"}
+{"prompt":"Get the country where Item is 2121002 ->","completion":" select country from table where item = 2121002\n"}
+{"prompt":"Display the  SUM of Amount where Name is Investeringsmaatschappij Argenta ->","completion":" select sum amount from table where name = investerings\n"}
+{"prompt":"What is the reason the Chief Judge of 1971–1977 was terminated? ->","completion":" select reason for termination from table where chief judge = 1971–1977\n"}
+{"prompt":"Display the  SUM of Amount where Name is Nordea Bank Abp ->","completion":" select sum amount from table where name = nordea bank ab\n"}
+{"prompt":"Name the team with Laps of 333 ->","completion":" select team from table where laps = 333\n"}
+{"prompt":"What is NSA where period is 202013 ->","completion":" select nsa from table where period = 202013\n"}
+{"prompt":"What car has a March 90ca Chassis? ->","completion":" select engine from table where chassis = march 90ca\n"}
+{"prompt":"What was the date that construction was finished when the unit was greifswald - 4 (kgr 4)? ->","completion":" select finish construction from table where unit = greifswald - 4 (kgr 4)\n"}
+{"prompt":"Display the  SUM of Amount where Name is Raiffeisenbankengruppe OÃ– Verbund eGen ->","completion":" select sum amount from table where name = raffeis\n"}
+{"prompt":"What is the average value for Top-5, when the value for Top-25 is 0, and the value for Wins is less than 0? ->","completion":" select avg top-5 from table where top-25 = 0 and wins < 0\n"}
+{"prompt":"What is the Amount where Label is TOTAL RISK EXPOSURE AMOUNT ->","completion":" select amount from table where label = total risk ex\n"}
+{"prompt":"What job is at red bank? ->","completion":" select occupation from table where residence = red bank\n"}
+{"prompt":"what is desc_country where Amount is 19655.00 ->","completion":" select desc_country from table where amount = 19655.00\n"}
+{"prompt":"What Chassis did Team BMS Scuderia Italia use with G Tyres and a Ferrari 037 3.5 v12 engine? ->","completion":" select chassis from table where team = bms scuderia italia and tyres = g and engine = ferrari 037 3.5 v12\n"}
+{"prompt":"WHich Places have a score smaller than 69? ->","completion":" select place from table where score < 69\n"}
+{"prompt":"What is the SUM of Amount where Name is Unicaja Banco, S.A. ->","completion":" select sum amount from table where name = unicaja banco\n"}
+{"prompt":"Get the country where Item is 2121014 ->","completion":" select country from table where item = 2121014\n"}
+{"prompt":"Locate the values Desc Country where Label is Tier 2 Capital instruments ->","completion":" select desc country from table where label = tier 2 capital instruments\n"}
+{"prompt":"Value of Amount where LEI_Code is 0W2PZJM8XOY22M4GG883 ->","completion":" select amount from table where lei_code = 0w2pzjm8xoy22m4gg883\n"}
+{"prompt":"Display the  SUM of Amount where Name is Bank Polska Kasa Opieki S.A. ->","completion":" select sum amount from table where name = bank polska \n"}
+{"prompt":"Display the  SUM of Amount where Name is Unicaja Banco, S.A. ->","completion":" select sum amount from table where name = unicaja banco\n"}
+{"prompt":"After 1972, how many points did Marlboro Team Alfa Romeo have? ->","completion":" select points from table where year > 1972 and entrant = marlboro team alfa romeo\n"}
+{"prompt":"Display the  SUM of Amount where Name is ALPHA SERVICES AND HOLDINGS S.A. ->","completion":" select sum amount from table where name = alpha services\n"}
+{"prompt":"Who was the Rookie of the Year for the Season in 2000? ->","completion":" select rookie of the year from table where season = 2000\n"}
+{"prompt":"What is the SUM of Amount where Name is Precision Capital S.A. ->","completion":" select sum amount from table where name = precision capital s.\n"}
+{"prompt":"Return SUM of Amount where Name is LSF Nani Investments S.Ã  r.l. ->","completion":" select sum amount from table where name = lsf \n"}
+{"prompt":"What is the SUM of Amount where Name is Bank of Valletta Plc ->","completion":" select sum amount from table where name = bank of valletta\n"}
+{"prompt":"Display the  SUM of Amount where Name is Volkswagen Bank Gesellschaft mit beschrÃ¤nkter Haftung ->","completion":" select sum amount from table where name = volkswagen bank gesellschaft mit be\n"}
+{"prompt":"Which state has a Reason for termination of retirement, and an Active service of 1926–1928? ->","completion":" select state from table where reason for termination = retirement and active service = 1926–1928\n"}
+{"prompt":"Value of Amount where LEI_Code is 0W2PZJM8XOY22M4GG885 ->","completion":" select amount from table where lei_code = 0w2pzjm8xoy22m4gg885\n"}
+{"prompt":"What is the SUM of Amount where Name is Akcine bendrove Å iauliu bankas. ->","completion":" select sum amount from table where name = akcine bendro\n"}
+{"prompt":"Get the country where Item is 2121011 ->","completion":" select country from table where item = 2121011\n"}
+{"prompt":"Return SUM of Amount where Name is Bank Polska Kasa Opieki S.A. ->","completion":" select sum amount from table where name = bank polska \n"}
+{"prompt":"What is the Highest first elected year that has a district of 06.0 6, and a committee of economic matters? ->","completion":" select max first elected from table where district = 06.0 6 and committee = economic matters\n"}
+{"prompt":"What is the SUM of Amount where Name is Erwerbsgesellschaft der S-Finanzgruppe mbH & Co. KG ->","completion":" select sum amount from table where name = erwerbsgesellschaft der s\n"}
+{"prompt":"Display the  SUM of Amount where Name is RBC Investor Services Bank S.A. ->","completion":" select sum amount from table where name = rbc investor\n"}
+{"prompt":"What place has a score greater than 68, and camilo villegas as the player? ->","completion":" select place from table where score > 68 and player = camilo villegas\n"}
+{"prompt":"Return SUM of Amount where Name is Banco Santander, S.A.. ->","completion":" select sum amount from table where name = banco sant\n"}
+{"prompt":"Value of Amount where LEI_Code is 0W2PZJM8XOY22M4GG887 ->","completion":" select amount from table where lei_code = 0w2pzjm8xoy22m4gg887\n"}
+{"prompt":"What is the SUM of Amount where Name is Citibank Holdings Ireland Limited ->","completion":" select sum amount from table where name = cibank holding\n"}
+{"prompt":"What is the SUM of Amount where Name is Biser Topco S.Ã  r.l. ->","completion":" select sum amount from table where name = biser topco \n"}
+{"prompt":"Which unite had the type wwer-440\/213? ->","completion":" select unit from table where type = wwer-440\/213\n"}
+{"prompt":"Display the  SUM of Amount where Name is J.P. Morgan AG ->","completion":" select sum amount from table where name = j.p.\n"}
+{"prompt":"Display the Desc_country where Amount is lesser than 10000 ->","completion":" select desc_country from table where amount < 10000\n"}
+{"prompt":"Display Desc Country where Label is Transitional adjustments ->","completion":" select desc country from table where label = transitional adjustments\n"}
+{"prompt":"What is NSA where period is 202009 ->","completion":" select nsa from table where period = 202009\n"}
+{"prompt":"Return SUM of Amount where Name is Luminor Holding AS ->","completion":" select sum amount from table where name = luminor holding\n"}
+{"prompt":"What is the corresponding 1930s for 2000 and 1940? ->","completion":" select sum 1930s from table where 2000s = 2000 and 1940s < 1940\n"}
+{"prompt":"What is the SUM of Amount where Name is Raiffeisenbankengruppe OÃ– Verbund eGen ->","completion":" select sum amount from table where name = raffeis\n"}
+{"prompt":"What is the SUM of Amount where Name is State Street Europe Holdings Germany S.a.r.l. & Co. KG ->","completion":" select sum amount from table where name = state street european holdings\n"}
+{"prompt":"What is the SUM of Amount where Name is ALPHA SERVICES AND HOLDINGS S.A. ->","completion":" select sum amount from table where name = alpha services\n"}
+{"prompt":"What is the SUM of Amount where Name is HASPA Finanzholding ->","completion":" select sum amount from table where name = hhsa\n"}
+{"prompt":"Return SUM of Amount where Name is KBC Groep ->","completion":" select sum amount from table where name = kbc \n"}
+{"prompt":"What is the score of  Tommy Bolt ->","completion":" select min score from table where player = tommy bolt\n"}
+{"prompt":"Display the Finrep where Amount is greater than 10000 ->","completion":" select finrep from table where amount > 10000\n"}
+{"prompt":"On what Date had a Score of 5-2 and a Loss of Greinke (1-2)? ->","completion":" select date from table where score = 5-2 and loss = greinke (1-2)\n"}
+{"prompt":"Display the  SUM of Amount where Name is Magyar Bankholding ->","completion":" select sum amount from table where name = magyar bankholding\n"}
+{"prompt":"Name the average gold medals when the bronze medals was less than 1, silver medals being 0 and total medals more than 1 ->","completion":" select avg gold medals from table where bronze medals < 1 and silver medals = 0 and total medals > 1\n"}
+{"prompt":"What is the try bonus for ynysybwl rfc? ->","completion":" select try bonus from table where club = ynysybwl rfc\n"}
+{"prompt":"Name the ensemble with silver medals more than 1 ->","completion":" select ensemble from table where silver medals > 1\n"}
+{"prompt":"Which route has a terminus of pine Forest? ->","completion":" select name from table where terminus = pine forest\n"}
+{"prompt":"What is the SUM of Amount where Name is BAWAG Group AG ->","completion":" select sum amount from table where name = bawag group\n"}
+{"prompt":"What is NSA where period is 202016 ->","completion":" select nsa from table where period = 202016\n"}
+{"prompt":"What is the nsa where Desc_Country is Spain ->","completion":" select nsa from table where desc_country = spain\n"}
+{"prompt":"Display the  SUM of Amount where Name is Erwerbsgesellschaft der S-Finanzgruppe mbH & Co. KG ->","completion":" select sum amount from table where name = erwerbsgesellschaft der s\n"}
+{"prompt":"Return SUM of Amount where Name is Biser Topco S.Ã  r.l. ->","completion":" select sum amount from table where name = biser topco \n"}
+{"prompt":"What is the total amount of Top-25 having a Top-5 greater than 1? ->","completion":" select count top-25 from table where top-5 > 1\n"}
+{"prompt":"Get the country where Item is 2121004 ->","completion":" select country from table where item = 2121004\n"}
+{"prompt":"What is the direction of the route that stars at downtown transit center and has a terminus point at Pensacola Beach? ->","completion":" select direction from table where starting point = downtown transit center and terminus = pensacola beach\n"}
+{"prompt":"Display the  SUM of Amount where Name is Precision Capital S.A. ->","completion":" select sum amount from table where name = precision capital s.\n"}
+{"prompt":"Which player has 68 as the score and canada as the country? ->","completion":" select player from table where score = 68 and country = canada\n"}
+{"prompt":"What is the least amount of lecturers in the accounting department with less than 5 full professors? ->","completion":" select min lecturers from table where department = accounting and full professors < 5\n"}
+{"prompt":"Display the Finrep where Amount is lesser than 10000 ->","completion":" select finrep from table where amount < 10000\n"}
+{"prompt":"How many points did the Ford V8 with a Tyrrell 007 have? ->","completion":" select points from table where engine = ford v8 and chassis = tyrrell 007\n"}
+{"prompt":"Get the country where Item is 2121010 ->","completion":" select country from table where item = 2121010\n"}
+{"prompt":"Who was the visiting team on November 10? ->","completion":" select visiting team from table where date = november 10\n"}
+{"prompt":"Return SUM of Amount where Name is State Street Europe Holdings Germany S.a.r.l. & Co. KG ->","completion":" select sum amount from table where name = state street european holdings\n"}
+{"prompt":"What is NSA where period is 202011 ->","completion":" select nsa from table where period = 202011\n"}
+{"prompt":"How many episodes were portrayed by Nick Jonas? ->","completion":" select count # of episodes from table where portrayed by = nick jonas\n"}
+{"prompt":"what is desc_country where Amount is 19655.07 ->","completion":" select desc_country from table where amount = 19655.07\n"}
+{"prompt":"What year did Elf Team Tyrrell have 39 points and a Tyrrell 007 Chassis? ->","completion":" select sum year from table where entrant = elf team tyrrell and points = 39 and chassis = tyrrell 007\n"}
+{"prompt":"What year did Ecurie Bleue score more than 0 points? ->","completion":" select avg year from table where pts. > 0 and entrant = ecurie bleue\n"}
+{"prompt":"Display the  SUM of Amount where Name is Jyske Bank A\/S ->","completion":" select sum amount from table where name = jyske bank\n"}
+{"prompt":"Return SUM of Amount where Name is Akcine bendrove Å iauliu bankas. ->","completion":" select sum amount from table where name = akcine bendro\n"}
+{"prompt":"What is the Desc Country where Label is OWN FUNDS ->","completion":" select desc country from table where label = own funds\n"}
+{"prompt":"What is the Desc Country where Label is Accumulated other comprehensive income ->","completion":" select desc country from table where label = accumulated other comprehensive\n"}
+{"prompt":"Display Desc Country where Label is Retained earnings ->","completion":" select desc country from table where label = retained earnings\n"}
+{"prompt":"What is the Desc Country where Label is Financial assets at fair value through other comprehensive income ->","completion":" select desc country from table where label = financial assets at fair value through\n"}
+{"prompt":"Return SUM of Amount where Name is Akciju sabiedriba \"Citadele banka\" ->","completion":" select sum amount from table where name = akciju\n"}
+{"prompt":"What is the To Par that has Tommy Bolt with a Place of t6? ->","completion":" select to par from table where place = t6 and player = tommy bolt\n"}
+{"prompt":"What is the SUM of Amount where Name is DekaBank Deutsche Girozentrale ->","completion":" select sum amount from table where name = dekabank german \n"}
+{"prompt":"what is the highest top-5 when the top-25 is less than 4, cuts made is more than 3 and wins is 0? ->","completion":" select max top-5 from table where top-25 < 4 and cuts made > 3 and wins < 0\n"}
+{"prompt":"What is the Desc Country where Label is COMMON EQUITY TIER 1 CAPITAL (net of deductions and after applying transitional adjustments) ->","completion":" select desc country from table where label = common equity\n"}
+{"prompt":"Which year has brm v12 as the engine? ->","completion":" select year from table where engine = brm v12\n"}
+{"prompt":"During what years was álvaro pérez the number 2 ranked player? ->","completion":" select year(s) from table where rank = 2 and player = álvaro pérez\n"}
+{"prompt":"What is the premiere where the host is lieke van lexmond dennis weening? ->","completion":" select premiere from table where host = lieke van lexmond dennis weening\n"}
+{"prompt":"What is the premiere on the mega channel? ->","completion":" select premiere from table where channel = mega channel\n"}
+{"prompt":"What is the symbol for Windpower in China? ->","completion":" select wind power (wp) from table where country = china\n"}
+{"prompt":"who were the winners in west virginia ->","completion":" select candidates winning candidate in bold from table where state (linked to summaries below) = west virginia\n"}
+{"prompt":"tell the final for lindsey graham ->","completion":" select result from table where senator = lindsey graham\n"}
+{"prompt":"who won the senate seat in arkansas ->","completion":" select senator from table where state (linked to summaries below) = arkansas\n"}
+{"prompt":"What is the dysart of the principal? ->","completion":" select dysart from table where information = principal\n"}
+{"prompt":"What is williow canyon of Roberta Lockhart? ->","completion":" select willow canyon from table where dysart = roberta lockhart\n"}
+{"prompt":"What is the willow canyon of Stallion? ->","completion":" select willow canyon from table where shadow ridge = stallion\n"}
+{"prompt":"Name the Valley Vista of Anthony Capuano ->","completion":" select valley vista from table where willow canyon = anthony capuano\n"}
+{"prompt":"How many informations does Michael Hawkins have? ->","completion":" select count information from table where shadow ridge = michael hawkins\n"}
+{"prompt":"How many total rounds did Damon Hill come in First Place? ->","completion":" select count round from table where winning driver = damon hill\n"}
+{"prompt":"Who drove the winning car constructed by Jordan - Mugen-Honda? ->","completion":" select winning driver from table where winning constructor = jordan - mugen-honda\n"}
+{"prompt":"Which Grand Prix was won by a car constructed by Jordan - Mugen-Honda? ->","completion":" select grand prix from table where winning constructor = jordan - mugen-honda\n"}
+{"prompt":"Which location belongs to the website, http:\/\/www.mudgeerabasoccer.com\/? ->","completion":" select location from table where website = http:\/\/www.mudgeerabasoccer.com\/\n"}
+{"prompt":"The president, peter williamson, had how many home grounds? ->","completion":" select count home ground from table where president = peter williamson\n"}
+{"prompt":"How many head coaches are there for the website, http:\/\/www.burleighbulldogs.org\/? ->","completion":" select count head coach from table where website = http:\/\/www.burleighbulldogs.org\/\n"}
+{"prompt":"The head coach, steve radoslavic, is related to which websites? ->","completion":" select website from table where head coach = steve radoslavic\n"}
+{"prompt":"Who is the driver of the european grand prix? ->","completion":" select winning driver from table where grand prix = european grand prix\n"}
+{"prompt":"What is the report for round 3? ->","completion":" select report from table where round = 3\n"}
+{"prompt":"What is the winning driver of round 7? ->","completion":" select winning driver from table where round = 7\n"}
+{"prompt":"Name the grand prix with a driver of Michael Schumacher and a round of 7? ->","completion":" select grand prix from table where winning driver = michael schumacher and fastest lap = michael schumacher and round = 7\n"}
+{"prompt":"Which round was the winning constructor was Benetton - Ford and in the Pole Position was Damon Hill? ->","completion":" select round from table where winning constructor = benetton - ford and pole position = damon hill\n"}
+{"prompt":"How many Grand Prix were the winning constructor Benetton - Ford and the pole position was Michael Schumacher? ->","completion":" select count grand prix from table where winning constructor = benetton - ford and pole position = michael schumacher\n"}
+{"prompt":"Who was the winning driver in round 6? ->","completion":" select winning driver from table where round = 6\n"}
+{"prompt":"Who was the winning driver in the grand prix at Pacific Grand Prix? ->","completion":" select winning driver from table where grand prix = pacific grand prix\n"}
+{"prompt":"Who was the winning driver when the grand Prix was at Belgian Grand Prix? ->","completion":" select winning driver from table where grand prix = belgian grand prix\n"}
+{"prompt":"Who was the winning driver when the pole position was held by Ayrton Senna and the Fastest lap was Michael Schumacher? ->","completion":" select winning driver from table where pole position = ayrton senna and fastest lap = michael schumacher\n"}
+{"prompt":"On which date was the winning driver Alain Prost and and had Damon Hill in the pole position? ->","completion":" select date from table where winning driver = alain prost and pole position = damon hill\n"}
+{"prompt":"Which round was the Spanish Grand Prix? ->","completion":" select round from table where grand prix = spanish grand prix\n"}
+{"prompt":"What was the record at week 7 ->","completion":" select record from table where week = 7\n"}
+{"prompt":"How many teams did they play week 6 ->","completion":" select count opponent from table where week = 6\n"}
+{"prompt":"What is the number of reports for the italian grand prix? ->","completion":" select count report from table where race = italian grand prix\n"}
+{"prompt":"What is the pole position of the belgian grand prix? ->","completion":" select pole position from table where race = belgian grand prix\n"}
+{"prompt":"What is the pole position of paul ricard? ->","completion":" select pole position from table where location = paul ricard\n"}
+{"prompt":"What is the report of the united states grand prix west? ->","completion":" select report from table where race = united states grand prix west\n"}
+{"prompt":"Where is the German Grand Prix? ->","completion":" select location from table where race = german grand prix\n"}
+{"prompt":"What is the constructor of the Swedish Grand Prix? ->","completion":" select constructor from table where race = swedish grand prix\n"}
+{"prompt":"Who did the fastest lap at Watkins glen? ->","completion":" select fastest lap from table where location = watkins glen\n"}
+{"prompt":"What circuit has a race called ii cape south easter trophy. ->","completion":" select circuit from table where race name = ii cape south easter trophy\n"}
+{"prompt":"Which driver won the i race of champions? ->","completion":" select winning driver from table where race name = i race of champions\n"}
+{"prompt":"What is the report for the race that Mike Spence won. ->","completion":" select report from table where winning driver = mike spence\n"}
+{"prompt":"What is the report for the race i sunday mirror trophy? ->","completion":" select report from table where race name = i sunday mirror trophy\n"}
+{"prompt":"How many winners did I Dessau Autobahnspinne have? ->","completion":" select count winning driver from table where race name = i dessau autobahnspinne\n"}
+{"prompt":"What is the date on which a race was run at Halle-Saale-Schleife circuit? ->","completion":" select date from table where circuit = halle-saale-schleife\n"}
+{"prompt":"How many races take place in Dessau circuit? ->","completion":" select count race name from table where circuit = dessau\n"}
+{"prompt":"Which races did Paul Greifzu win? ->","completion":" select race name from table where winning driver = paul greifzu\n"}
+{"prompt":"Which driver won at the Sachsenring circuit? ->","completion":" select winning driver from table where circuit = sachsenring\n"}
+{"prompt":"Which constructor was present at the Redex Trophy race? ->","completion":" select constructor from table where race name = redex trophy\n"}
+{"prompt":"How many different constructors had Paul Thiel as a winning driver? ->","completion":" select count constructor from table where winning driver = paul thiel\n"}
+{"prompt":" who is the opponent where tv is abc and game site is tampa stadium ->","completion":" select opponent from table where tv = abc and game site = tampa stadium\n"}
+{"prompt":"what is the total number of opponent where date is november 23, 1980 ->","completion":" select count opponent from table where date = november 23, 1980\n"}
+{"prompt":"what is the total number of kickoff [a ] where week is week ->","completion":" select count kickoff [a ] from table where week = week\n"}
+{"prompt":" what's the week where attendance is 77,098 ->","completion":" select week from table where attendance = 77,098\n"}
+{"prompt":" what's the record where attendance is 61,350 ->","completion":" select record from table where attendance = 61,350\n"}
+{"prompt":" what's the record where result is l 24-10 ->","completion":" select record from table where result = l 24-10\n"}
+{"prompt":"What date was the Silverstone circuit driven?  ->","completion":" select date from table where circuit = silverstone\n"}
+{"prompt":"When was the Albi circuit race driven?  ->","completion":" select date from table where circuit = albi\n"}
+{"prompt":"Would built the winning car in the IV J.C.C. Jersey Road Race?  ->","completion":" select constructor from table where race name = iv j.c.c. jersey road race\n"}
+{"prompt":"Who won the race at the Jersey circuit?  ->","completion":" select winning driver from table where circuit = jersey\n"}
+{"prompt":"When did the season air where the viewership was 14.71 million? ->","completion":" select season premiere from table where viewers (in millions) = 14.71\n"}
+{"prompt":"What tv season had a season finale of august 18, 2004? ->","completion":" select tv season from table where season finale = august 18, 2004\n"}
+{"prompt":"What is the power capacity when the generators were 781? ->","completion":" select power capacity (gw) from table where number of generators = 781\n"}
+{"prompt":"What is the percentage of total capacity when the energy is 120.2? ->","completion":" select % of total capacity from table where annual energy (billion kwh) = 120.2\n"}
+{"prompt":"What is the % of annual production of solar? ->","completion":" select % of annual production from table where power source = solar\n"}
+{"prompt":"What is the number of generators where the power capicity is 78.7? ->","completion":" select count number of generators from table where power capacity (gw) = 78.7\n"}
+{"prompt":"What is the % of total capacity when the generators is 4048? ->","completion":" select % of total capacity from table where number of generators = 4048\n"}
+{"prompt":"Which model number has a GVM (kg) Technical Capacity of 16000 and a Torque Nm@rpm of 600 @ 1700? ->","completion":" select model from table where gvm (kg) technical capacity = 16000 and torque nm@rpm = 600 @ 1700\n"}
+{"prompt":"If the model is  15.180e, what is the GVM (kg) Technical Capacity? ->","completion":" select gvm (kg) technical capacity from table where model = 15.180e\n"}
+{"prompt":"If the engine make\/capacity is MWM 6.10 TCA-EURO III (Turbo Intercooler) and  GVM (kg) Technical Capacity is 23000, what is the Torque Nm@rpm? ->","completion":" select torque nm@rpm from table where gcm (kg) technical capacity = 23000 and engine make\/capacity = mwm 6.10 tca-euro iii (turbo intercooler)\n"}
+{"prompt":"What is the power kw@RPM of the 13.180 model? ->","completion":" select count power kw@rpm from table where model = 13.180\n"}
+{"prompt":"When the transmission make\/type\/speed is eaton fs 5306-a manual synchromesh 6 speed, what is the value of the gcm (kg) technical capacity? ->","completion":" select gcm (kg) technical capacity from table where transmission make\/type\/speed = eaton fs 5306-a manual synchromesh 6 speed\n"}
+{"prompt":"Which model possesses a transmission make\/type\/speed of eaton fs-6306 a manual synchromesh 6 speed? ->","completion":" select model from table where transmission make\/type\/speed = eaton fs-6306 a manual synchromesh 6 speed\n"}
+{"prompt":"Is drawing tablet support part of the semi-DDM class? ->","completion":" select semi-ddm class from table where comparisons = drawing tablet support\n"}
+{"prompt":"Is  usb re-enumeration required part of the emulated class? ->","completion":" select emulated class from table where comparisons = usb re-enumeration required\n"}
+{"prompt":"Is wireless combo keyboard and mouse support part of the hub base class? ->","completion":" select hub base class from table where comparisons = wireless combo keyboard and mouse support\n"}
+{"prompt":"Is the drawing tablet support part of the DDM class? ->","completion":" select ddm class from table where comparisons = drawing tablet support\n"}
+{"prompt":"Is  wireless combo keyboard and mouse support part of the DDM class? ->","completion":" select ddm class from table where comparisons = wireless combo keyboard and mouse support\n"}
+{"prompt":"What school or team does Al Jefferson play for? ->","completion":" select school\/club team from table where player = al jefferson\n"}
+{"prompt":"Which forward player has the number 22? ->","completion":" select player from table where no. = 22 and position = forward\n"}
+{"prompt":"What number does the player from Ohio play with? ->","completion":" select no. from table where school\/club team = ohio\n"}
+{"prompt":"During which years did player number 35 play for Jazz? ->","completion":" select years for jazz from table where no. = 35\n"}
+{"prompt":"For driver Mark Skaife what is the result for race 1? ->","completion":" select race 1 from table where driver = mark skaife\n"}
+{"prompt":"When was the game in Mexico played?  ->","completion":" select date from table where location = mexico\n"}
+{"prompt":"What University has the acrronym of USF ->","completion":" select university name from table where acronym = usf\n"}
+{"prompt":"What is the acronym used for Beirut Arab University? ->","completion":" select acronym from table where university name = beirut arab university\n"}
+{"prompt":"What is the acronym for the school whose website is ul.edu.lb ->","completion":" select acronym from table where website = ul.edu.lb\n"}
+{"prompt":"Are there registration notes on usek.edu.lb? ->","completion":" select official registration notes from table where website = usek.edu.lb\n"}
+{"prompt":"What year was USF founded? ->","completion":" select date founded from table where acronym = usf\n"}
+{"prompt":"What is the tournament on Jul 11? ->","completion":" select tournament from table where date = jul 11\n"}
+{"prompt":"What is the tournament of aug 29? ->","completion":" select tournament from table where date = aug 29\n"}
+{"prompt":"How many prizes were there at the transamerica? ->","completion":" select count 1st prize( $ ) from table where tournament = the transamerica\n"}
+{"prompt":"What is the sum of the largest purse? ->","completion":" select max purse( $ ) from table\n"}
+{"prompt":"When was the tournament in Washington held? ->","completion":" select date from table where location = washington\n"}
+{"prompt":"How many tournaments in Texas had a purse higher than 330105.1624276874? ->","completion":" select count 1st prize( $ ) from table where location = texas and purse( $ ) > 330105.1624276874\n"}
+{"prompt":"What is the first season written by joseph hampton & dani renee? ->","completion":" select min season no. from table where written by = joseph hampton & dani renee\n"}
+{"prompt":"How many air dates are there for production code 206? ->","completion":" select count original air date from table where production code = 206\n"}
+{"prompt":"What is the title for season 2? ->","completion":" select title from table where season no. = 2\n"}
+{"prompt":"What is the series number for the title \"Bad Influence\" ->","completion":" select max series no. from table where title = \"bad influence\"\n"}
+{"prompt":"How many seasons was series number 47 shown? ->","completion":" select count season no. from table where series no. = 47\n"}
+{"prompt":"When did the episode with production code 410 air? ->","completion":" select original air date from table where production code = 410\n"}
+{"prompt":"What is the most series number with season 3? ->","completion":" select max series # from table where season # = 3\n"}
+{"prompt":"What is the purse value for the New York location? ->","completion":" select purse( $ ) from table where location = new york\n"}
+{"prompt":"What is the largest 1st prize( $ ) at the South Carolina location? ->","completion":" select max 1st prize( $ ) from table where location = south carolina\n"}
+{"prompt":"What is the score for the Oregon location? ->","completion":" select score from table where location = oregon\n"}
+{"prompt":"List all areas within 1000 km in the city of Lubelskie? ->","completion":" select area in 1000km² (1930) from table where voivodeship separate city = lubelskie\n"}
+{"prompt":"What is the population in the city of Pomorskie? ->","completion":" select population in 1000 (1931) from table where voivodeship separate city = pomorskie\n"}
+{"prompt":"List all car plates in the capital of Wilno since the year of 1937. ->","completion":" select car plates (since 1937) from table where capital = wilno\n"}
+{"prompt":"List population when their car plates are 30-34. ->","completion":" select population in 1000 (1931) from table where car plates (since 1937) = 30-34\n"}
+{"prompt":"How many points are there when the lost is 26? ->","completion":" select points from table where lost = 26\n"}
+{"prompt":"WHAT TEAM CLASSIFIED IN THE STAGE WHERE BRADLEY WIGGINS WON THE POINTS CLASSIFICATION ? ->","completion":" select team classification from table where points classification = bradley wiggins\n"}
+{"prompt":"IN WHAT STAGE DID ALEXANDER VINOKOUROV WON THE GENERAL CLASSIFICATION? ->","completion":" select stage (winner) from table where general classification = alexander vinokourov\n"}
+{"prompt":"Name the average for spain delegate ->","completion":" select average from table where delegate = spain\n"}
+{"prompt":"Name the interview for peru delegate ->","completion":" select interview from table where delegate = peru\n"}
+{"prompt":"Name the number of swimsuit for israel ->","completion":" select count swimsuit from table where delegate = israel\n"}
+{"prompt":"What are the swimsuits for south africa? ->","completion":" select swimsuit from table where delegate = south africa\n"}
+{"prompt":"Who were the MLB draft with the hometown Opa-locka, Fl? ->","completion":" select mlb draft from table where hometown = opa-locka, fl\n"}
+{"prompt":"How many players have the hometown Pennsauken, NJ? ->","completion":" select count player from table where hometown = pennsauken, nj\n"}
+{"prompt":"Which position did the player from the hometown of Dallas, TX play? ->","completion":" select position from table where hometown = dallas, tx\n"}
+{"prompt":"What is the hometown of player Jason Place? ->","completion":" select hometown from table where player = jason place\n"}
+{"prompt":"What school did the catcher attend? ->","completion":" select school from table where position = catcher\n"}
+{"prompt":"What is Jay Bruce's hometown? ->","completion":" select hometown from table where player = jay bruce\n"}
+{"prompt":"What school is he the catcher for? ->","completion":" select school from table where position = catcher\n"}
+{"prompt":"WHAT HOMETOWN DOES HE PLAY AS THE CATCHER FOR? ->","completion":" select hometown from table where position = catcher\n"}
+{"prompt":"WHAT POSITION DOES HE PLAY FOR AT WEST BROOK SENIOR HIGH SCHOOL? ->","completion":" select position from table where school = west brook senior high school\n"}
+{"prompt":"WHAT TOWN IS WEST BROOK SENIOR HIGH SCHOOL FROM? ->","completion":" select hometown from table where school = west brook senior high school\n"}
+{"prompt":"What position did the player from Jersey City, New Jersey play?  ->","completion":" select position from table where hometown = jersey city, new jersey\n"}
+{"prompt":"What offensive line player hailed from Baton Rouge, Louisiana? ->","completion":" select player from table where position = offensive line and hometown = baton rouge, louisiana\n"}
+{"prompt":"What is Jeremy Hill's hometown? ->","completion":" select hometown from table where player = jeremy hill\n"}
+{"prompt":"How many offensive line players played for a college in Alabama? ->","completion":" select count hometown from table where college = alabama and position = offensive line\n"}
+{"prompt":"How many players attended Hillcrest High School? ->","completion":" select count college from table where school = hillcrest high school\n"}
+{"prompt":"Where was the hometown for the player that attended Shanley High School? ->","completion":" select hometown from table where school = shanley high school\n"}
+{"prompt":"Which player went to the college Southern California? ->","completion":" select player from table where college = southern california\n"}
+{"prompt":"Which college did the player attend that went to Mission Viejo High School? ->","completion":" select college from table where school = mission viejo high school\n"}
+{"prompt":"How many players hometown was Cincinnati, Ohio? ->","completion":" select count player from table where hometown = cincinnati, ohio\n"}
+{"prompt":"Which player's hometown was Pewaukee, Wisconsin? ->","completion":" select player from table where hometown = pewaukee, wisconsin\n"}
+{"prompt":"How many players' hometown was Akron, Ohio? ->","completion":" select count school from table where hometown = akron, ohio\n"}
+{"prompt":"Which player is from Utah? ->","completion":" select player from table where college = utah\n"}
+{"prompt":"Which player is from Saguaro High School? ->","completion":" select position from table where school = saguaro high school\n"}
+{"prompt":"Which player is from Joliet Catholic HIgh School? ->","completion":" select player from table where school = joliet catholic high school\n"}
+{"prompt":"Which school did the player then go to Auburn? ->","completion":" select school from table where college = auburn\n"}
+{"prompt":"What is the hometown of trinity high school? ->","completion":" select hometown from table where school = trinity high school\n"}
+{"prompt":"What position did the kid from loganville, georgia play ->","completion":" select position from table where hometown = loganville, georgia\n"}
+{"prompt":"Where is longview high school ->","completion":" select hometown from table where school = longview high school\n"}
+{"prompt":"Where did robert nkemdiche ‡ go to college ->","completion":" select college from table where player = robert nkemdiche ‡\n"}
+{"prompt":"Where is friendship collegiate charter school located ->","completion":" select hometown from table where school = friendship collegiate charter school\n"}
+{"prompt":"Who had an evening gown score of 9.78? ->","completion":" select interview from table where evening gown = 9.78\n"}
+{"prompt":"How many interviews were there for Miss Virginia? ->","completion":" select count interview from table where country = virginia\n"}
+{"prompt":"Who had a swimsuit score of 9.87? ->","completion":" select count country from table where swimsuit = 9.87\n"}
+{"prompt":"Who had evening gown score of 9.82? ->","completion":" select country from table where evening gown = 9.82\n"}
+{"prompt":"How many ladies scored a 9.89 for the evening gown? ->","completion":" select count swimsuit from table where evening gown = 9.89\n"}
+{"prompt":"Who scored a 9.72 in the swimsuit? ->","completion":" select interview from table where swimsuit = 9.72\n"}
+{"prompt":"What episode was writted by John A. Norris? ->","completion":" select title from table where written by = john a. norris\n"}
+{"prompt":"How many episodes did David Jackson write and direct? ->","completion":" select count written by from table where directed by = david jackson\n"}
+{"prompt":"What player attended Loyola Marymount? ->","completion":" select player from table where school\/club team\/country = loyola marymount\n"}
+{"prompt":"How may times did a player that attended Iowa state appear on the all time roster? ->","completion":" select count years for rockets from table where school\/club team\/country = iowa state\n"}
+{"prompt":"What height was the player that played for the Rockets between 1992-93? ->","completion":" select height in ft. from table where years for rockets = 1992-93\n"}
+{"prompt":"How many times did a center that attended Oral Roberts play for the Rockets? ->","completion":" select count years for rockets from table where position = center and school\/club team\/country = oral roberts\n"}
+{"prompt":"What was the player name who came from Australia? ->","completion":" select player from table where school\/club team\/country = australia\n"}
+{"prompt":"What is the height in ft for the rockets from 1973-78? ->","completion":" select height in ft. from table where years for rockets = 1973-78\n"}
+{"prompt":"Which players were number 3? ->","completion":" select player from table where no.(s) = 3\n"}
+{"prompt":"What is the height in ft for number 42 for the rockets in 1993-94? ->","completion":" select height in ft. from table where no.(s) = 42 and years for rockets = 1993-94\n"}
+{"prompt":"What are the players that attented long beach state? ->","completion":" select player from table where school\/club team\/country = long beach state\n"}
+{"prompt":"what is the total amount of players for the rockets in 1998 only? ->","completion":" select count player from table where years for rockets = 1998\n"}
+{"prompt":"What is the area (square km) where the arrondissement is millau? ->","completion":" select min area (square km) from table where arrondissement = millau\n"}
+{"prompt":"How many communes have the chief town as dijon? ->","completion":" select count communes from table where chief town = dijon\n"}
+{"prompt":"How many communes when the arrondissement is cosne-cours-sur-loire? ->","completion":" select min communes from table where arrondissement = cosne-cours-sur-loire\n"}
+{"prompt":" what's the engine where builder is gloucester rcw and withdrawn is 1959 ->","completion":" select engine from table where builder = gloucester rcw and withdrawn = 1959\n"}
+{"prompt":" what's the engine where number range is 8–9, 13–16 ->","completion":" select engine from table where number range = 8–9, 13–16\n"}
+{"prompt":" what's the introduced where notes is 9 withdrawn in 1946 after fire ->","completion":" select introduced from table where notes = 9 withdrawn in 1946 after fire\n"}
+{"prompt":" what's the builder where withdrawn is 1954–1958 ->","completion":" select builder from table where withdrawn = 1954–1958\n"}
+{"prompt":" what's the notes where number range is 17 ->","completion":" select notes from table where number range = 17\n"}
+{"prompt":" what's the notes where withdrawn is 1956–57 ->","completion":" select notes from table where withdrawn = 1956–57\n"}
+{"prompt":"Who was the lyricist for gopal krishna and co singer of solo? ->","completion":" select lyricist from table where film name = gopal krishna and co-singer = solo\n"}
+{"prompt":"What was the number of music directors where the suresh wadkar co singer of bhayanak? ->","completion":" select count music director from table where co-singer = suresh wadkar and film name = bhayanak\n"}
+{"prompt":"What was the lyricst of \"na jane aise ho gaya kaise\"? ->","completion":" select lyricist from table where song name = \"na jane aise ho gaya kaise\"\n"}
+{"prompt":"how many times is the co-singer suresh wadkar and the film name is tera dukh mera dukh? ->","completion":" select count lyricist from table where co-singer = suresh wadkar and film name = tera dukh mera dukh\n"}
+{"prompt":"what are the film names with the co-singer vinod rathod? ->","completion":" select film name from table where co-singer = vinod rathod\n"}
+{"prompt":"what is the song name for the film name ganga kare insaaf? ->","completion":" select song name from table where film name = ganga kare insaaf\n"}
+{"prompt":"what are the song names for the film kaal bhairav? ->","completion":" select song name from table where film name = kaal bhairav\n"}
+{"prompt":"who is the music director for the song \"jekhanete jaai ami 1\"? ->","completion":" select music director from table where song name = \"jekhanete jaai ami 1\"\n"}
+{"prompt":"What was the 1845 disposal for sussex? ->","completion":" select 1845 disposal from table where name = sussex\n"}
+{"prompt":"What was the maximum l&cr number for archimedes? ->","completion":" select max l&cr no. from table where name = archimedes\n"}
+{"prompt":"What was the type of sussex? ->","completion":" select type from table where name = sussex\n"}
+{"prompt":"Where did Test Mission: War Heads and Missile Payload launch when there was a partial failure? ->","completion":" select launch site from table where mission = test mission: war heads and missile payload and results = partial failure\n"}
+{"prompt":"Which missions were scheduled to launch on November 16, 2006? ->","completion":" select mission from table where launch date = november 16, 2006\n"}
+{"prompt":"Which authority has a rocket launch called rehbar-ii? ->","completion":" select institutional authority from table where rocket launch = rehbar-ii\n"}
+{"prompt":"Which authority has a rocket launch called rehnuma-8? ->","completion":" select institutional authority from table where rocket launch = rehnuma-8\n"}
+{"prompt":"Which authority has a rocket launch called shahpar-2? ->","completion":" select institutional authority from table where rocket launch = shahpar-2\n"}
+{"prompt":"Which authority has a rocket launch called rehbar-5? ->","completion":" select count derivatives from table where rocket launch = rehbar-5\n"}
+{"prompt":"What denominations are the stamps with themes opera, léopold simoneau and pierrette alarie? ->","completion":" select denomination from table where theme = opera, léopold simoneau and pierrette alarie\n"}
+{"prompt":"What kind of paper were the stamps with the theme duck decoys, barrow's golden eye printed on? ->","completion":" select paper type from table where theme = duck decoys, barrow's golden eye\n"}
+{"prompt":"List all the themes designed by Isabelle Toussaint. ->","completion":" select theme from table where design = isabelle toussaint\n"}
+{"prompt":"How many paper types did Ian Drolet design stamps on? ->","completion":" select count paper type from table where design = ian drolet\n"}
+{"prompt":"Who is the designer of the Christmas: Winter Fun (USA) stamp? ->","completion":" select design from table where theme = christmas: winter fun (usa)\n"}
+{"prompt":"How many stamps were designed for the theme of XII Summit de la Francophonie? ->","completion":" select count design from table where theme = xii summit de la francophonie\n"}
+{"prompt":"Where is the first day cover cancellation for the 3 April 2008 IIHF World Championships, Quebec City stamp? ->","completion":" select first day cover cancellation from table where date of issue = 3 april 2008 and theme = iihf world championships, quebec city\n"}
+{"prompt":"How many premier episodes were there with the title survivor's law ii? ->","completion":" select count premiere from table where english title = survivor's law ii\n"}
+{"prompt":"What is the Chinese name that has a 31 average? ->","completion":" select chinese title from table where average = 31\n"}
+{"prompt":"What is the rank of finale 37? ->","completion":" select rank from table where finale = 37\n"}
+{"prompt":"what is the Chinese name for Forensic heroes ii? ->","completion":" select chinese title from table where english title = forensic heroes ii\n"}
+{"prompt":"What numbr on the list had a peak rating of 42? ->","completion":" select min rank from table where peak = 42\n"}
+{"prompt":" what's the electorate where election date is 16 cannot handle non-empty timestamp argument! ->","completion":" select electorate from table where election date = 16 cannot handle non-empty timestamp argument!\n"}
+{"prompt":" what's the province where member is frederick merriman category:articles with hcards ->","completion":" select province from table where member = frederick merriman category:articles with hcards\n"}
+{"prompt":" what's the election date where electorate is omata ->","completion":" select election date from table where electorate = omata\n"}
+{"prompt":" what's the election date where member is william richmond category:articles with hcards ->","completion":" select election date from table where member = william richmond category:articles with hcards\n"}
+{"prompt":" what's the province where member is dingley brittin category:articles with hcards ->","completion":" select province from table where member = dingley brittin category:articles with hcards\n"}
+{"prompt":" what's the election date where electorate is christchurch country ->","completion":" select election date from table where electorate = christchurch country\n"}
+{"prompt":"What is the county for senator C. Anthony Muse? ->","completion":" select county(s) represented from table where member senator = c. anthony muse\n"}
+{"prompt":"Who is the senator for district 24? ->","completion":" select member senator from table where district = 24\n"}
+{"prompt":"How many entries are shown for first elected for district 41? ->","completion":" select count first elected from table where district = 41\n"}
+{"prompt":"What is the total amount of allied-unrelated where the component is human capital? ->","completion":" select count allied-unrelated from table where component = human capital\n"}
+{"prompt":"How many integrated allied-related are there? ->","completion":" select integrated from table where allied-related = many\n"}
+{"prompt":"What is the name of the integrated where the component are customers? ->","completion":" select integrated from table where component = customers\n"}
+{"prompt":"what is the integrated in which the holding allied-unrelated is many? ->","completion":" select holding from table where allied-unrelated = many\n"}
+{"prompt":"What is the name of the integrated where allied-related is shared? ->","completion":" select component from table where allied-related = shared\n"}
+{"prompt":"Who were the writers for series number 20? ->","completion":" select written by from table where series # = 20\n"}
+{"prompt":"What is the production code for the show that aired on October 27, 1994? ->","completion":" select max production code from table where original air date = october 27, 1994\n"}
+{"prompt":"Who was the director of the Series 1 episode? ->","completion":" select directed by from table where series # = 1\n"}
+{"prompt":"Which team played on December 5? ->","completion":" select team from table where date = december 5\n"}
+{"prompt":"What was the location attendance when High points was by Pierce (22)? ->","completion":" select location attendance from table where high points = pierce (22)\n"}
+{"prompt":"What date did the Bulls play the LA Lakers? ->","completion":" select date from table where team = la lakers\n"}
+{"prompt":"What team were the Bulls hosted by on December 7? ->","completion":" select team from table where date = december 7\n"}
+{"prompt":"Who had the highest assists in game 4? ->","completion":" select high assists from table where game = 4\n"}
+{"prompt":"How many games was Damien Wilkins (27) the high scorer? ->","completion":" select min game from table where high points = damien wilkins (27)\n"}
+{"prompt":"What is the name when born is december 30, 1957 detroit, mi? ->","completion":" select name from table where born = december 30, 1957 detroit, mi\n"}
+{"prompt":"What is the weight(lbs) when born is april 6, 1954 detroit, mi? ->","completion":" select weight(lbs) from table where born = april 6, 1954 detroit, mi\n"}
+{"prompt":"What is the name when the position is de and college is ohio state? ->","completion":" select name from table where position = de and college = ohio state\n"}
+{"prompt":"What is under drafted when pro team is arizona cardinals? ->","completion":" select drafted from table where pro team = arizona cardinals\n"}
+{"prompt":"What is the position when drafted is 1974,r11,p11? ->","completion":" select position from table where drafted = 1974,r11,p11\n"}
+{"prompt":"In which year was the Weight 170? ->","completion":" select year from table where weight = 170\n"}
+{"prompt":"What number (#) is associated with the Name Ron Baxter? ->","completion":" select count # from table where name = ron baxter\n"}
+{"prompt":"Crockett High School had which number(#)? ->","completion":" select # from table where high school = crockett\n"}
+{"prompt":"Which home town was the high school Catholic University located in? ->","completion":" select home town from table where high school = catholic university\n"}
+{"prompt":"How many years have the home town of Baton Rouge, LA? ->","completion":" select count year from table where home town = baton rouge, la\n"}
+{"prompt":"What height was the forward position at Crockett High School? ->","completion":" select height from table where position = forward and high school = crockett\n"}
+{"prompt":"What are the commissioned for scotts, greenock and chieftain? ->","completion":" select commissioned from table where builder = scotts, greenock and name = chieftain\n"}
+{"prompt":"What is the builder launched 30 october 1944? ->","completion":" select builder from table where launched = 30 october 1944\n"}
+{"prompt":"what is the minimum voted no where percent no is 56.6 ->","completion":" select min voted no from table where percent no = 56.6\n"}
+{"prompt":" what's the percent yes where voted yes is 2410119 ->","completion":" select percent yes from table where voted yes = 2410119\n"}
+{"prompt":" what's the jurisdiction where percent yes is 43.4 ->","completion":" select jurisdiction from table where percent yes = 43.4\n"}
+{"prompt":"what is the minimum voted yes where percent no is 68.2 ->","completion":" select min voted yes from table where percent no = 68.2\n"}
+{"prompt":" what's the jurisdiction where voted no is 322971 ->","completion":" select jurisdiction from table where voted no = 322971\n"}
+{"prompt":" what's the date of completion where success is yes ->","completion":" select date of completion from table where success = yes\n"}
+{"prompt":" what's the deadline for completion where description is iphone recall within the first 3 months of release ->","completion":" select deadline for completion from table where description = iphone recall within the first 3 months of release\n"}
+{"prompt":" what's the success where date of completion is september 28, 2007 ->","completion":" select success from table where date of completion = september 28, 2007\n"}
+{"prompt":" what's the date of completion where deadline for completion is september 30, 2007 ->","completion":" select date of completion from table where deadline for completion = september 30, 2007\n"}
+{"prompt":"what is the total number of deadline for completion where description is facebook becomes a publicly traded company ->","completion":" select count deadline for completion from table where description = facebook becomes a publicly traded company\n"}
+{"prompt":" what's the success where deadline for completion is october 7, 2007 ->","completion":" select success from table where deadline for completion = october 7, 2007\n"}
+{"prompt":"The earliest year is 1996. ->","completion":" select min year from table\n"}
+{"prompt":"There are 5 imports of plywood. ->","completion":" select import from table where product = plywood\n"}
+{"prompt":"What is the score for interview when the preliminaries score is 8.425? ->","completion":" select interview from table where preliminaries = 8.425\n"}
+{"prompt":"What is the interview score when the preliminaries score is 8.400? ->","completion":" select interview from table where preliminaries = 8.400\n"}
+{"prompt":"What is the score for swimsuit when the average is 8.791? ->","completion":" select swimsuit from table where average = 8.791\n"}
+{"prompt":"What is the score for the interview for the state of New York? ->","completion":" select interview from table where state = new york\n"}
+{"prompt":"How many times did district of Columbia receive a score for evening gown? ->","completion":" select count evening gown from table where state = district of columbia\n"}
+{"prompt":"What is the average score when the swimsuit score is 8.503? ->","completion":" select average from table where swimsuit = 8.503\n"}
+{"prompt":"What is the number of gt1 winning team for rnd 5? ->","completion":" select count gt1 winning team from table where rnd = 5\n"}
+{"prompt":"What is the rnd for gt1 winning team for doc bundy andy wallace? ->","completion":" select rnd from table where gt1 winning team = doc bundy andy wallace\n"}
+{"prompt":"Name the gt1 winning team for #54 bell motorsports ->","completion":" select gt1 winning team from table where gt2 winning team = #54 bell motorsports\n"}
+{"prompt":"What is the title of the episode that was watched by 8.92 million viewers? ->","completion":" select episode title from table where u.s. viewers (millions) = 8.92\n"}
+{"prompt":"How many episodes had 9.90 million viewers? ->","completion":" select count episode title from table where u.s. viewers (millions) = 9.90\n"}
+{"prompt":"What is the series number of the episode watched by 10.89 million viewers? ->","completion":" select max series # from table where u.s. viewers (millions) = 10.89\n"}
+{"prompt":"What is the name of the episode written by Sheila Lawrence & Henry Alonso Myers? ->","completion":" select episode title from table where writer(s) = sheila lawrence & henry alonso myers\n"}
+{"prompt":"What is the pick number of the defensive back? ->","completion":" select count overall pick # from table where position = defensive back\n"}
+{"prompt":"What is the position for the pick number 17? ->","completion":" select position from table where overall pick # = 17\n"}
+{"prompt":"What is the college of the afl team of buffalo bills? ->","completion":" select college from table where afl team = buffalo bills\n"}
+{"prompt":"What is the position of john charles? ->","completion":" select position from table where player = john charles\n"}
+{"prompt":"What is the largest pick number of the new york jets? ->","completion":" select max overall pick # from table where afl team = new york jets\n"}
+{"prompt":"What is the afl team of the offensive guard? ->","completion":" select afl team from table where position = offensive guard\n"}
+{"prompt":"What was the women's singles were men's doubles were steen fladberg jens peter nierhoff? ->","completion":" select womens singles from table where mens doubles = steen fladberg jens peter nierhoff\n"}
+{"prompt":"What are the mixed doubles where the mens singles is kim brodersen? ->","completion":" select mixed doubles from table where mens singles = kim brodersen\n"}
+{"prompt":" what's the first appearance where character(s) is iron man ->","completion":" select first appearance from table where character(s) = iron man\n"}
+{"prompt":"what is the total number of publisher where cover date is may 1939 ->","completion":" select count publisher from table where cover date = may 1939\n"}
+{"prompt":"what is the total number of publisher where first appearance is daredevil #1 ->","completion":" select count publisher from table where first appearance = daredevil #1\n"}
+{"prompt":" what's the cover date where character(s) is sandman (wesley dodds) ->","completion":" select cover date from table where character(s) = sandman (wesley dodds)\n"}
+{"prompt":" what's the cover date where character(s) is x-men ; magneto ->","completion":" select cover date from table where character(s) = x-men ; magneto\n"}
+{"prompt":" what's the estimated value where cover date is august 1962 ->","completion":" select estimated value from table where cover date = august 1962\n"}
+{"prompt":"What theme placed as #3 in the finale? ->","completion":" select result from table where theme = finale and order # = 3\n"}
+{"prompt":"What is the theme for the episode selection process? ->","completion":" select theme from table where episode = selection process\n"}
+{"prompt":"What is the order number for the song choice \"detalles\"?  ->","completion":" select order # from table where song choice = \"detalles\"\n"}
+{"prompt":"What is the order number for songs by the original artist Luis Fonsi? ->","completion":" select order # from table where original artist = luis fonsi\n"}
+{"prompt":"What is the song choice when the theme is not aired? ->","completion":" select theme from table where song choice = not aired\n"}
+{"prompt":"What years did Markose Bristow Madhumita Bisht win the mens singles and\/or the mixed doubles? ->","completion":" select mens singles from table where mixed doubles = markose bristow madhumita bisht\n"}
+{"prompt":"Who won the womens doubles in 2002? ->","completion":" select womens doubles from table where season = 2002\n"}
+{"prompt":"How many total titles did Rupesh Kumar Sanave Thomas and Jwala Gutta Ashwini Ponnappa win total? ->","completion":" select count womens singles from table where mens doubles = rupesh kumar sanave thomas and womens doubles = jwala gutta ashwini ponnappa\n"}
+{"prompt":"In womens doubles and mens singles, what years did Arvind Bhat or Valiyaveetil Diju Jwala Gutta win? ->","completion":" select womens doubles from table where mens singles = arvind bhat and mixed doubles = valiyaveetil diju jwala gutta\n"}
+{"prompt":"How many titles did Trupti Murgunde claim? ->","completion":" select womens doubles from table where womens singles = trupti murgunde\n"}
+{"prompt":"What is the pennant for 4 may 1943? ->","completion":" select pennant from table where laid down = 4 may 1943\n"}
+{"prompt":"What is the total number of fate for pennant of u33? ->","completion":" select count fate from table where pennant = u33\n"}
+{"prompt":"What is the fate for 11 april 1944? ->","completion":" select fate from table where commissioned = 11 april 1944\n"}
+{"prompt":"What is the name for 30 september 1943? ->","completion":" select name from table where launched = 30 september 1943\n"}
+{"prompt":"What is the comissioned for 4 may 1943? ->","completion":" select commissioned from table where laid down = 4 may 1943\n"}
+{"prompt":"Who was the writters for the episode directed by Richard L. Bare, no. 8 in season? ->","completion":" select written by from table where directed by = richard l. bare and no. in season = 8\n"}
+{"prompt":"How many episodes had a title \"the great mayoralty campaign\"? ->","completion":" select count directed by from table where title = \"the great mayoralty campaign\"\n"}
+{"prompt":"What is the location of the tournament that the share of winning is 7000? ->","completion":" select tournament location from table where winners share ($) = 7000\n"}
+{"prompt":"What year is Japan the country? ->","completion":" select year from table where country = japan\n"}
+{"prompt":"What is the year that Dewi Claire Schreefel is the champion? ->","completion":" select year from table where champion = dewi claire schreefel\n"}
+{"prompt":"What is the winners Share ($) in the year 2004? ->","completion":" select min winners share ($) from table where year = 2004\n"}
+{"prompt":"What is the tournament location when Vicky Hurst in the champion? ->","completion":" select tournament location from table where champion = vicky hurst\n"}
+{"prompt":"What is the intergiro classification of stage 21? ->","completion":" select intergiro classification from table where stage = 21\n"}
+{"prompt":"What is the trofeo fast team on stage 8? ->","completion":" select trofeo fast team from table where stage = 8\n"}
+{"prompt":"What is the general classification with the winner being evgeni berzin? ->","completion":" select count general classification from table where winner = evgeni berzin\n"}
+{"prompt":"What is the intergiro classification of alexander gontchenkov? ->","completion":" select intergiro classification from table where winner = alexander gontchenkov\n"}
+{"prompt":"what is total number of points where the stage is 17? ->","completion":" select count points classification from table where stage = 17\n"}
+{"prompt":"What is the status of channel 44.1? ->","completion":" select status from table where channel = 44.1\n"}
+{"prompt":"What station has a univision network affiliation? ->","completion":" select station from table where network affiliation = univision\n"}
+{"prompt":"How many season did sportfreunde siegen win best supported club? ->","completion":" select count season from table where best supported club = sportfreunde siegen\n"}
+{"prompt":"what are all the Canadian air dates where the u.s. air date is may 1, 2009 ->","completion":" select canadian airdate from table where u.s. airdate = may 1, 2009\n"}
+{"prompt":"What is the total number of u.s. air dates with a title of \"dermabrasion\" ->","completion":" select count u.s. airdate from table where title = \"dermabrasion\"\n"}
+{"prompt":"What is the maximum season # with a u.s. air date is may 1, 2009 ->","completion":" select max season # from table where u.s. airdate = may 1, 2009\n"}
+{"prompt":"What is the total number of title with a u.s. air date of April 17, 2009 ->","completion":" select count title from table where u.s. airdate = april 17, 2009\n"}
+{"prompt":"what is the minimum production code ->","completion":" select min production code from table\n"}
+{"prompt":"what are the u.s. air dates with a Canadian air date of may 4, 2009 ->","completion":" select u.s. airdate from table where canadian airdate = may 4, 2009\n"}
+{"prompt":"Which is the charity that the background of the celebrity is heavyweight champion? ->","completion":" select charity from table where background = heavyweight champion\n"}
+{"prompt":"What is the original team of the celebrity who had the result 08 fired in week 10 (2008-03-06) ->","completion":" select original team from table where result = 08 fired in week 10 (2008-03-06)\n"}
+{"prompt":"Which celebrity was raised 03? ->","completion":" select celebrity from table where raised = 03\n"}
+{"prompt":"What is the charity of the celebrity with the background reality star? ->","completion":" select charity from table where background = reality star\n"}
+{"prompt":"What is the background of the celebrity who had the result 13 the celebrity apprentice (2008-03-27)? ->","completion":" select background from table where result = 13 the celebrity apprentice (2008-03-27)\n"}
+{"prompt":"Where is Tamunosiki Atorudibo from ->","completion":" select country from table where athlete = tamunosiki atorudibo\n"}
+{"prompt":"Where is Dwain Chambers from ->","completion":" select location from table where athlete = dwain chambers\n"}
+{"prompt":"What was the stats of Trinidad and Tobago ->","completion":" select wind (m\/s) from table where country = trinidad and tobago\n"}
+{"prompt":"Name the total number of wind m\/s for sunday emmanuel ->","completion":" select count wind (m\/s) from table where athlete = sunday emmanuel\n"}
+{"prompt":"Name the wind m\/s and fastest time of 10.25 and jeff demps ->","completion":" select wind (m\/s) from table where fastest time (s) = 10.25 and athlete = jeff demps\n"}
+{"prompt":"What is the club when 1st leg is 1–2? ->","completion":" select club from table where 1st leg = 1–2\n"}
+{"prompt":"What is the competition when aggregate is 1–4? ->","completion":" select competition from table where aggregate = 1–4\n"}
+{"prompt":"What is the 1st leg when club is a.c. libertas? ->","completion":" select 1st leg from table where club = a.c. libertas\n"}
+{"prompt":"What is the 1st leg when 2nd leg is 1–0 and competition is uefa champions league? ->","completion":" select 1st leg from table where 2nd leg = 1–0 and competition = uefa champions league\n"}
+{"prompt":"What is the competition when 2nd leg is 0–8? ->","completion":" select competition from table where 2nd leg = 0–8\n"}
+{"prompt":"What is the round when 1st leg is 0–1? ->","completion":" select round from table where 1st leg = 0–1\n"}
+{"prompt":"What is the branding of metro manila? ->","completion":" select branding from table where location = metro manila\n"}
+{"prompt":"When was the institution of Kansas city Kansas community college founded? ->","completion":" select count founded from table where institution = kansas city kansas community college\n"}
+{"prompt":"What is the mascot for the instition of Kansas city Kansas community college? ->","completion":" select mascot from table where institution = kansas city kansas community college\n"}
+{"prompt":"How many school colors is there for the main campus location of highland? ->","completion":" select count school colors from table where main campus location = highland\n"}
+{"prompt":"What is the mascot for the school founded in 1923 with the school colors of blue, red & white? ->","completion":" select mascot from table where founded = 1923 and school colors = blue, red & white\n"}
+{"prompt":"What is the instition where the main campus location is overland park? ->","completion":" select institution from table where main campus location = overland park\n"}
+{"prompt":"What is the name of the institution with the mascot of blue devils? ->","completion":" select institution from table where mascot = blue devils\n"}
+{"prompt":"Name the people who wrote number 67 ->","completion":" select written by from table where series # = 67\n"}
+{"prompt":"Name the number of season that was written by adam milch ->","completion":" select min season # from table where written by = adam milch\n"}
+{"prompt":"Name the season number for the direction of patrick norris ->","completion":" select season # from table where directed by = patrick norris\n"}
+{"prompt":"Who wrote the episode when the director was dean white? ->","completion":" select writer(s) from table where director = dean white\n"}
+{"prompt":"Please list the total number of title with the production code 211. ->","completion":" select count title from table where production code = 211\n"}
+{"prompt":"What is the production code of the episode titled, \"But there's Clay\"? ->","completion":" select max production code from table where title = \"but there's clay\"\n"}
+{"prompt":"Please give me the title of Season 2, episode 1.  ->","completion":" select title from table where season 2 ep # = 1\n"}
+{"prompt":"Provide me with the name of the writer with the production code 210.  ->","completion":" select writer(s) from table where production code = 210\n"}
+{"prompt":"What is the number of the original airdate with the production code 208. ->","completion":" select count original airdate from table where production code = 208\n"}
+{"prompt":"What size is a 30 frames per minute ->","completion":" select frame size from table where maximum fps = 30\n"}
+{"prompt":"What is the size when the frame is bigger than for 4096.0 ->","completion":" select aspect ratio from table where width > 4096.0\n"}
+{"prompt":"What is the smallest frames per minute when the pixels are 5.0 ->","completion":" select least compression at 24 fps from table where mpix = 5.0\n"}
+{"prompt":"what's the width with frame size being 4.5k ->","completion":" select width from table where frame size = 4.5k\n"}
+{"prompt":"What is the callsign of tuguegarao ->","completion":" select callsign from table where location (transmitter site) = tuguegarao\n"}
+{"prompt":"What is the station type of calbayog ->","completion":" select station type from table where location (transmitter site) = calbayog\n"}
+{"prompt":"What is the station type of smni tv-26 naga ->","completion":" select station type from table where branding = smni tv-26 naga\n"}
+{"prompt":"How many places featured the DXCL Callsign? ->","completion":" select count location from table where callsign = dxcl\n"}
+{"prompt":"What was the branding in Dagupan? ->","completion":" select branding from table where location = dagupan\n"}
+{"prompt":"What was the callsign in Zamboanga? ->","completion":" select callsign from table where location = zamboanga\n"}
+{"prompt":"How much power was used when the callsign was DZYT? ->","completion":" select power (kw) from table where callsign = dzyt\n"}
+{"prompt":"What is the name of Season #15? ->","completion":" select title from table where season # = 15\n"}
+{"prompt":"What is the series number for Season #18? ->","completion":" select min series # from table where season # = 18\n"}
+{"prompt":"What was the first series in this list that Jack Orman wrote? ->","completion":" select min series # from table where written by = jack orman\n"}
+{"prompt":"What date did the episode called \"Responsible Parties\" air on? ->","completion":" select original air date from table where title = \"responsible parties\"\n"}
+{"prompt":"What is the name of the episode that Richard Thorpe directed? ->","completion":" select title from table where directed by = richard thorpe\n"}
+{"prompt":"Name the population of maryborough when population of woocoo is 2700 ->","completion":" select population (maryborough) from table where population (woocoo) = 2700\n"}
+{"prompt":"Name the most year when population of woocoo is 2700 ->","completion":" select max year from table where population (woocoo) = 2700\n"}
+{"prompt":"Who was crew chief for the team owned by Bob Leavine? ->","completion":" select crew chief from table where owner(s) = bob leavine\n"}
+{"prompt":"Who drove for team Circle Sport? ->","completion":" select driver(s) from table where team = circle sport\n"}
+{"prompt":"Who drove for Phil Parsons Racing team? ->","completion":" select driver(s) from table where team = phil parsons racing\n"}
+{"prompt":"Which teams used Wally Rogers as their crew chief? ->","completion":" select team from table where crew chief = wally rogers\n"}
+{"prompt":"What is the largest number of rounds for the team that hired Donnie Wingo as crew chief? ->","completion":" select max rounds from table where crew chief = donnie wingo\n"}
+{"prompt":"What is the percent change (1990–2000) when the 2007 estimate is 0 1,598,161? ->","completion":" select percent change (1990–2000) from table where 2007 estimate = 0 1,598,161\n"}
+{"prompt":"What is the 2007 estimate when the rank (csa) is 4 ->","completion":" select 2007 estimate from table where rank (csa) = 4\n"}
+{"prompt":"What is the 2007 estimate for tulsa-bartlesville, ok csa? ->","completion":" select 2007 estimate from table where combined statistical area (or metropolitan statistical area if noted) = tulsa-bartlesville, ok csa\n"}
+{"prompt":"How many times was the rank (csa) was (msa 348)? ->","completion":" select count 2000 population from table where rank (csa) = (msa 348)\n"}
+{"prompt":"What is the rank (csa) for the percentage change (1990-2000) was a034 +8.71%? ->","completion":" select rank (csa) from table where percent change (1990–2000) = a034 +8.71%\n"}
+{"prompt":"What tourmament has Genesis won previously? ->","completion":" select championship from table where previous champion(s) = genesis\n"}
+{"prompt":"Who was the champion prior to Xix Xavant? ->","completion":" select previous champion(s) from table where champion(s) = xix xavant\n"}
+{"prompt":"Who are the champions that have won at Aguas Buenas, Puerto Rico? ->","completion":" select champion(s) from table where location = aguas buenas, puerto rico\n"}
+{"prompt":"What's the English translation of the Japanese title of the game Ranma ½: Chougi Rambuhen? ->","completion":" select english title\/translation from table where japanese title = ranma ½: chougi rambuhen\n"}
+{"prompt":"What's the genre of Fever Ranma ½: Hot Springs Athletic Chapter? ->","completion":" select genre from table where english title\/translation = fever ranma ½: hot springs athletic chapter\n"}
+{"prompt":"When was the game developed by Microvision released? ->","completion":" select initial release date from table where developer = microvision\n"}
+{"prompt":"What's the number of verbal nouns with the basic stem (root) -bil-? ->","completion":" select count verbal noun from table where basic stem (root) = -bil-\n"}
+{"prompt":"What does the non-present stem -erama- mean? ->","completion":" select meaning from table where non-present stem = -erama-\n"}
+{"prompt":"What's the participle when the verbal noun is i-bil-tze? ->","completion":" select participle from table where verbal noun = i-bil-tze\n"}
+{"prompt":"What does the basic stem (root) -rama- mean? ->","completion":" select meaning from table where basic stem (root) = -rama-\n"}
+{"prompt":"What is the verbal noun connected to the participle e-duki? ->","completion":" select verbal noun from table where participle = e-duki\n"}
+{"prompt":"what is the tries against where points is 60? ->","completion":" select tries against from table where points = 60\n"}
+{"prompt":"How many losing bonus where there when points against is 439? ->","completion":" select count losing bonus from table where points against = 439\n"}
+{"prompt":"what is the drawn when the won is 12? ->","completion":" select drawn from table where won = 12\n"}
+{"prompt":"What is the tries against when the won is 14? ->","completion":" select tries against from table where won = 14\n"}
+{"prompt":"How many tries for are for 473 points for? ->","completion":" select count tries for from table where points for = 473\n"}
+{"prompt":"what is the points for when the played is 22 and tries against is 68? ->","completion":" select points for from table where played = 22 and tries against = 68\n"}
+{"prompt":"what's the loss with try bonus being 5 and points for being 390 ->","completion":" select lost from table where try bonus = 5 and points for = 390\n"}
+{"prompt":"what's the win with points for being 376 ->","completion":" select won from table where points for = 376\n"}
+{"prompt":"what's the loss with points for being 594 ->","completion":" select lost from table where points for = 594\n"}
+{"prompt":"what's the tries against with tries for being 47 ->","completion":" select tries against from table where tries for = 47\n"}
+{"prompt":"what's the won with club being ammanford rfc ->","completion":" select won from table where club = ammanford rfc\n"}
+{"prompt":" how many drawn with tries against being 24 ->","completion":" select count drawn from table where tries against = 24\n"}
+{"prompt":"What were the drawn with points against at 416? ->","completion":" select drawn from table where points against = 416\n"}
+{"prompt":"What was the amount won with tries against at 54? ->","completion":" select won from table where tries against = 54\n"}
+{"prompt":"What was the lost with tries for? ->","completion":" select lost from table where tries for = tries for\n"}
+{"prompt":"What was the points againt when played is played? ->","completion":" select points against from table where played = played\n"}
+{"prompt":"What was the tries for with tries against at 33? ->","completion":" select tries for from table where tries against = 33\n"}
+{"prompt":"What was the played with club tumble rfc? ->","completion":" select played from table where club = tumble rfc\n"}
+{"prompt":"What consoles was Shenmue released on? ->","completion":" select console from table where franchise or game = shenmue\n"}
+{"prompt":"Which main developer made their first release in 1991 and created the Mega Drive\/Genesis console? ->","completion":" select main developer from table where first release = 1991 and console = mega drive\/genesis\n"}
+{"prompt":"How many players currently play for Barons Riga? ->","completion":" select count position from table where current club = barons riga\n"}
+{"prompt":"How tall was Player #10? ->","completion":" select height from table where no = 10\n"}
+{"prompt":"What is the earliest any of these players were born? ->","completion":" select min year born from table\n"}
+{"prompt":"Which player number is 2.10 meters tall? ->","completion":" select no from table where height = 2.10\n"}
+{"prompt":"What position was played by the player who was 2.12 meters tall? ->","completion":" select position from table where height = 2.12\n"}
+{"prompt":"What current conference is Post University a member of? ->","completion":" select current conference from table where institution = post university\n"}
+{"prompt":"What institution has the nickname Penmen? ->","completion":" select institution from table where nickname = penmen\n"}
+{"prompt":"Where is the University at Albany located? ->","completion":" select location from table where institution = university at albany\n"}
+{"prompt":"What's the classification of the institution nicknamed Dolphins? ->","completion":" select classification from table where nickname = dolphins\n"}
+{"prompt":"What's the nickname of the University of Massachusetts Lowell (UMass Lowell)? ->","completion":" select nickname from table where institution = university of massachusetts lowell (umass lowell)\n"}
+{"prompt":"What is Ido Kozikaro's position? ->","completion":" select position from table where player = ido kozikaro\n"}
+{"prompt":"What player plays center? ->","completion":" select player from table where position = center\n"}
+{"prompt":"What are the numbers of the players currently playing for Ironi Nahariya? ->","completion":" select no from table where current club = ironi nahariya\n"}
+{"prompt":"What player is 2.01 m tall? ->","completion":" select player from table where height = 2.01\n"}
+{"prompt":"What's Yotam Halperin's position? ->","completion":" select position from table where player = yotam halperin\n"}
+{"prompt":"What current club does the player born in 1984 play for? ->","completion":" select current club from table where year born = 1984\n"}
+{"prompt":"What is the height for player number 5? ->","completion":" select count height from table where no = 5\n"}
+{"prompt":"What height is player number 9? ->","completion":" select height from table where no = 9\n"}
+{"prompt":"WHat is the number for the player whose height is 2.01? ->","completion":" select count player from table where height = 2.01\n"}
+{"prompt":"What year was the player with the height 2.04 born? ->","completion":" select min year born from table where height = 2.04\n"}
+{"prompt":"How many players wore number 8? ->","completion":" select count height from table where no = 8\n"}
+{"prompt":"What player was born in 1983? ->","completion":" select player from table where year born = 1983\n"}
+{"prompt":"What club does the player who is 1.97 m tall play for? ->","completion":" select current club from table where height = 1.97\n"}
+{"prompt":"How many players are from energa czarni? ->","completion":" select count position from table where current club = energa czarni\n"}
+{"prompt":"What year was Robert Skibniewski born? ->","completion":" select year born from table where player = robert skibniewski\n"}
+{"prompt":"What No is the player Zoran Erceg ->","completion":" select min no from table where player = zoran erceg\n"}
+{"prompt":"What is the iclandic of the glossary for presenta for mi locaria ->","completion":" select the icelandic of the glossary from table where the basque of the glossary = presenta for mi locaria\n"}
+{"prompt":"Name the english translation of giefdu mier socka bond ->","completion":" select english translation from table where the icelandic of the glossary = giefdu mier socka bond\n"}
+{"prompt":"Name the english translation of 219 ->","completion":" select english translation from table where word number = 219\n"}
+{"prompt":"Name the incelandic of the glossary for 218 ->","completion":" select the icelandic of the glossary from table where word number = 218\n"}
+{"prompt":"What's the type of printer ports in the model number EX Plus3? ->","completion":" select printer ports from table where model number = ex plus3\n"}
+{"prompt":"What is the number of the model with three parallel printer ports? ->","completion":" select model number from table where printer ports = three parallel\n"}
+{"prompt":"What is the type of the printer ports included in the EX Plus3 model number? ->","completion":" select printer ports from table where model number = ex plus3\n"}
+{"prompt":"What are the network protocols for the model that has been discontinued in favor of the EN1700? ->","completion":" select network protocols from table where notes = discontinued in favor of the en1700\n"}
+{"prompt":"How many people live in  铅山县? ->","completion":" select max population from table where simplified = 铅山县\n"}
+{"prompt":"What is the traditional way to write the name of the district who's area is 2331? ->","completion":" select traditional from table where area = 2331\n"}
+{"prompt":"What is the capital of the district who's simplified name is  信州区? ->","completion":" select count pinyin from table where simplified = 信州区\n"}
+{"prompt":"How many people live in the district who's capital is  héngfēng xiàn? ->","completion":" select population from table where pinyin = héngfēng xiàn\n"}
+{"prompt":"What is the density of yushan county? ->","completion":" select count density from table where english name = yushan county\n"}
+{"prompt":"How many gold medals does the Choctawhatchee High School have? ->","completion":" select max gold medals from table where ensemble = choctawhatchee high school\n"}
+{"prompt":"How many gold medals does each school who has a total of 1 medal have? ->","completion":" select gold medals from table where total medals = 1\n"}
+{"prompt":"What is the time for stage ss18? ->","completion":" select time from table where stage = ss18\n"}
+{"prompt":"Name the length for stage ss22 ->","completion":" select length from table where stage = ss22\n"}
+{"prompt":"What is the number of leg for ss17 ->","completion":" select count leg from table where stage = ss17\n"}
+{"prompt":"What is the leg for c. atkinson ->","completion":" select leg from table where rally leader = c. atkinson\n"}
+{"prompt":"What's the smallest number of bronze medals that any one if the ensembles has?  ->","completion":" select min bronze medals from table\n"}
+{"prompt":"What is the rev of the 2003-2004 Mustang Cobra? ->","completion":" select rev from table where application = 2003-2004 mustang cobra\n"}
+{"prompt":"What is the rev for all of the  Aston Martin applications? ->","completion":" select rev from table where application = aston martin\n"}
+{"prompt":"What is the 3rd ratio for tag number 1386-000-017 and input splines of 26? ->","completion":" select 3rd from table where input splines = 26 and tag id = 1386-000-017\n"}
+{"prompt":"What is the 2nd ratio of 1996-2002 Dodge Viper? ->","completion":" select 2nd from table where application = 1996-2002 dodge viper\n"}
+{"prompt":"What application has a 6th ratio of 0.50:1 and 350 as a torque rating? ->","completion":" select application from table where 6th = 0.50:1 and torque rating = 350\n"}
+{"prompt":"Whose address of operation was the Echirax Concession?  ->","completion":" select client from table where area of operation = echirax concession\n"}
+{"prompt":"When was the operation in Field 103 executed?  ->","completion":" select years of operation from table where area of operation = field 103\n"}
+{"prompt":"In what country is the El Hamada area of operation?  ->","completion":" select country from table where area of operation = el hamada\n"}
+{"prompt":"Name the champion for 3rd place being 4 and 2nd place being larger than 4.0 ->","completion":" select champion from table where 3rd pl. = 4 and 2nd pl. > 4.0\n"}
+{"prompt":"What is the total number for 3rd place for ducati xerox? ->","completion":" select count 3rd pl. from table where team = ducati xerox\n"}
+{"prompt":"Who is J.E. Armstrong when W.H. Archer is D.M. Lawson? ->","completion":" select j.e. armstrong from table where w.h. archer = d.m. lawson\n"}
+{"prompt":"What are the fa.brill when w.h. archer is known as r. newman? ->","completion":" select f.a. brill from table where w.h. archer = r. newman\n"}
+{"prompt":"Who is h.l birkett if w.h. archer is r. cochrane? ->","completion":" select h.l. birkett from table where w.h. archer = r. cochrane\n"}
+{"prompt":"Who is h.t. brewer when j.e. armstrong is a.j. wilson? ->","completion":" select h.t. brewer from table where j.e. armstrong = a.j. wilson\n"}
+{"prompt":"Who is h.t. brewer when je armstrong is c.p. greeks? ->","completion":" select h.t. brewer from table where j.e. armstrong = c.p. greeks\n"}
+{"prompt":"When did the part 1 of the episode \"Anxiety\" air? ->","completion":" select part 1 from table where title = \"anxiety\"\n"}
+{"prompt":"What was the air date of part 2 of the episode whose part 1 was aired on January 31, 2008? ->","completion":" select part 2 from table where part 1 = january 31, 2008\n"}
+{"prompt":"What's the name of the episode whose part 3 aired on February 7, 2008? ->","completion":" select title from table where part 3 = february 7, 2008\n"}
+{"prompt":"What's the episode number of \"Anxiety\"? ->","completion":" select episode # from table where title = \"anxiety\"\n"}
+{"prompt":"What's the air date of part 1 of the episode whose part 2 aired on December 2, 2007? ->","completion":" select part 1 from table where part 2 = december 2, 2007\n"}
+{"prompt":"How many part 6 parts are there in the episode number 5? ->","completion":" select count part 6 from table where episode # = 5\n"}
+{"prompt":"Name the record with opponent atlanta falcons ->","completion":" select record from table where opponent = atlanta falcons\n"}
+{"prompt":"Name the number of opponent with arrowhead stadium ->","completion":" select count opponent from table where game site = arrowhead stadium\n"}
+{"prompt":"Name the date with the record of 1-0 ->","completion":" select date from table where record = 1-0\n"}
+{"prompt":"Name the record for september 15, 1985 ->","completion":" select record from table where date = september 15, 1985\n"}
+{"prompt":"How many of the episodes were titled \"Guerillas in the Mist\"? ->","completion":" select count no. in series from table where title = \"guerillas in the mist\"\n"}
+{"prompt":"What's the series number of the episode that's written by Elizabeth Devine? ->","completion":" select min no. in series from table where written by = elizabeth devine\n"}
+{"prompt":"When was the episode directed by Carey Meyer aired for the first time? ->","completion":" select original air date from table where directed by = carey meyer\n"}
+{"prompt":"Who is the writer of the episode called \"Ambush\" (part 1)? ->","completion":" select written by from table where title = \"ambush\" (part 1)\n"}
+{"prompt":"who is the the office with incumbent being ramon r. jimenez, jr. ->","completion":" select office from table where incumbent = ramon r. jimenez, jr.\n"}
+{"prompt":" how many office with department being department of justice kagawaran ng katarungan ->","completion":" select count office from table where department = department of justice kagawaran ng katarungan\n"}
+{"prompt":"what's the department with acronym being deped (ked) ->","completion":" select department from table where acronym = deped (ked)\n"}
+{"prompt":"what's the department with incumbent being enrique ona ->","completion":" select department from table where incumbent = enrique ona\n"}
+{"prompt":"what's the acronym with department being department of finance kagawaran ng pananalapi ->","completion":" select acronym from table where department = department of finance kagawaran ng pananalapi\n"}
+{"prompt":"When did the episode \"Hell bent for leather\" originally air? ->","completion":" select original air date from table where title = \"hell bent for leather\"\n"}
+{"prompt":"What's the season number of the episode titled \"Quitters\"? ->","completion":" select min no. in season from table where title = \"quitters\"\n"}
+{"prompt":"What's the season number of the episode watched by 0.57 million US viewers? ->","completion":" select max no. in season from table where u.s. viewers (million) = 0.57\n"}
+{"prompt":"How many episodes were seen by 0.67 million US viewers on their original air dates? ->","completion":" select count original air date from table where u.s. viewers (million) = 0.67\n"}
+{"prompt":"What episode was directed by David Duchovny? ->","completion":" select title from table where directed by = david duchovny\n"}
+{"prompt":"How much is the purse ( $ ) when the margin of victory is 1 stroke? ->","completion":" select purse ( $ ) from table where margin of victory = 1 stroke\n"}
+{"prompt":"What is the number of \"to par\" in Mexico with a winning score of 67-67-69-70=273? ->","completion":" select to par from table where country = mexico and winning score = 67-67-69-70=273\n"}
+{"prompt":"what's the 3rd day with 4th day being rowed-over ->","completion":" select 3rd day from table where 4th day = rowed-over\n"}
+{"prompt":"what's the 3rd day with finbeingh position being 16th ->","completion":" select 3rd day from table where finish position = 16th\n"}
+{"prompt":" how many 1st day with 3rd day being bumped st. catharine's ->","completion":" select count 1st day from table where 3rd day = bumped st. catharine's\n"}
+{"prompt":" how many 3rd day with 2nd day being bumped by magdalene ->","completion":" select count 3rd day from table where 2nd day = bumped by magdalene\n"}
+{"prompt":"what's the 4th day with 3rd day being bumped by downing ->","completion":" select 4th day from table where 3rd day = bumped by downing\n"}
+{"prompt":"what is the maximum year with 3rd day being rowed-over ->","completion":" select max year from table where 3rd day = rowed-over\n"}
+{"prompt":"what are all the result for New York 6 district ->","completion":" select result from table where district = new york 6\n"}
+{"prompt":"Who were the candidates when gregory w. meeks was the incumbent ->","completion":" select candidates from table where incumbent = gregory w. meeks\n"}
+{"prompt":"what are all the result for New York 16 district ->","completion":" select result from table where district = new york 16\n"}
+{"prompt":"what are all the result for New York 7 district ->","completion":" select result from table where district = new york 7\n"}
+{"prompt":"What party was Kevin Brady? ->","completion":" select party from table where incumbent = kevin brady\n"}
+{"prompt":"What district has Ron Paul? ->","completion":" select district from table where incumbent = ron paul\n"}
+{"prompt":"What party does jim ramstad represent? ->","completion":" select party from table where incumbent = jim ramstad\n"}
+{"prompt":"What year was incumbent jim ramstad first elected? ->","completion":" select min first elected from table where incumbent = jim ramstad\n"}
+{"prompt":"What was the result when incumbent gil gutknecht ran? ->","completion":" select results from table where incumbent = gil gutknecht\n"}
+{"prompt":"When was the incumbent Sherrod Brown first elected?  ->","completion":" select max first elected from table where incumbent = sherrod brown\n"}
+{"prompt":"What was the result of the election in which the incumbent was first elected in 1984? ->","completion":" select results from table where first elected = 1984\n"}
+{"prompt":"Which incumbent was first elected in 1972?  ->","completion":" select incumbent from table where first elected = 1972\n"}
+{"prompt":"Tony P. Hall was the incumbent in the race between what two candidates?  ->","completion":" select candidates from table where incumbent = tony p. hall\n"}
+{"prompt":"In which district is the incumbent Marcia C. Kaptur?  ->","completion":" select district from table where incumbent = marcia c. kaptur\n"}
+{"prompt":"What is the earliest year where the result of the election was a retired republican hold? ->","completion":" select min first elected from table where result = retired republican hold\n"}
+{"prompt":"What party is thomas foglietta from? ->","completion":" select party from table where incumbent = thomas foglietta\n"}
+{"prompt":"who is the the opponent with district being ohio12 ->","completion":" select opponent from table where district = ohio12\n"}
+{"prompt":"what's the party with opponent being mike oxley (r) unopposed ->","completion":" select party from table where opponent = mike oxley (r) unopposed\n"}
+{"prompt":"what's the party with opponent being marcy kaptur (d) 75.3% randy whitman (r) 24.7% ->","completion":" select party from table where opponent = marcy kaptur (d) 75.3% randy whitman (r) 24.7%\n"}
+{"prompt":"what's the party with opponent being deborah pryce (r) 70.7% bill buckel (d) 29.1% ->","completion":" select party from table where opponent = deborah pryce (r) 70.7% bill buckel (d) 29.1%\n"}
+{"prompt":" how many status with first elected being 1968 ->","completion":" select count status from table where first elected = 1968\n"}
+{"prompt":"what's the first elected with opponent being ralph regula (r) 75.0% j. michael finn (d) 25.0% ->","completion":" select first elected from table where opponent = ralph regula (r) 75.0% j. michael finn (d) 25.0%\n"}
+{"prompt":"What district first elected in 1978? ->","completion":" select district from table where first elected = 1978\n"}
+{"prompt":"What district was incumbent Jerry Kleczka in? ->","completion":" select district from table where incumbent = jerry kleczka\n"}
+{"prompt":"How many districts had results related to incumbent Toby Roth? ->","completion":" select count result from table where incumbent = toby roth\n"}
+{"prompt":"Who were the candidates in district Wisconsin 1? ->","completion":" select candidates from table where district = wisconsin 1\n"}
+{"prompt":"Name the district of lawrence j. smith ->","completion":" select district from table where incumbent = lawrence j. smith\n"}
+{"prompt":"Name the incumbent for 1954 ->","completion":" select incumbent from table where first elected = 1954\n"}
+{"prompt":"What party was Lane Evans? ->","completion":" select party from table where incumbent = lane evans\n"}
+{"prompt":"What district had elections in 1964? ->","completion":" select district from table where elected = 1964\n"}
+{"prompt":"Who was Henry Hyde's opponent in the race? ->","completion":" select opponent from table where incumbent = henry hyde\n"}
+{"prompt":"What Republican incumbent was elected in 1974? ->","completion":" select incumbent from table where elected = 1974 and party = republican\n"}
+{"prompt":"what's party with result being retired to run for u. s. senate republican hold ->","completion":" select party from table where result = retired to run for u. s. senate republican hold\n"}
+{"prompt":"what's result with incumbent being connie mack ->","completion":" select result from table where incumbent = connie mack\n"}
+{"prompt":"what's district with candidates being lawrence j. smith (d) 69.4% joseph smith (r) 30.6% ->","completion":" select district from table where candidates = lawrence j. smith (d) 69.4% joseph smith (r) 30.6%\n"}
+{"prompt":"what's incumbent with district being florida 5 ->","completion":" select incumbent from table where district = florida 5\n"}
+{"prompt":"what's result of first elected being 1980 ->","completion":" select result from table where first elected = 1980\n"}
+{"prompt":"How many parties is Tom Foley a member of? ->","completion":" select count party from table where incumbent = tom foley\n"}
+{"prompt":"What was the result of the election in the district whose incumbent is Tom Foley? ->","completion":" select status from table where incumbent = tom foley\n"}
+{"prompt":"How many results have the two candidates Gene Taylor (r) 67.0% Ken Young (d) 33.0%? ->","completion":" select count result from table where candidates = gene taylor (r) 67.0% ken young (d) 33.0%\n"}
+{"prompt":"Which candidates are from the Missouri 3 district? ->","completion":" select candidates from table where district = missouri 3\n"}
+{"prompt":"What is the result for barney frank? ->","completion":" select result from table where incumbent = barney frank\n"}
+{"prompt":"What is the number of results for james shannon? ->","completion":" select count result from table where incumbent = james shannon\n"}
+{"prompt":"What is the minimum first elected for ed markey? ->","completion":" select min first elected from table where incumbent = ed markey\n"}
+{"prompt":"What was the result of the election featuring ike skelton? ->","completion":" select result from table where incumbent = ike skelton\n"}
+{"prompt":"What district is incumbent ike skelton from? ->","completion":" select district from table where incumbent = ike skelton\n"}
+{"prompt":"What year was ike skelton first elected? ->","completion":" select min first elected from table where incumbent = ike skelton\n"}
+{"prompt":"what is the district where the result is re-elected and the incumbent is richard kelly? ->","completion":" select district from table where result = re-elected and incumbent = richard kelly\n"}
+{"prompt":"what is the district where the candidates are charles edward bennett (d) unopposed? ->","completion":" select district from table where candidates = charles edward bennett (d) unopposed\n"}
+{"prompt":"who are the candidates where the incumbent is sam m. gibbons? ->","completion":" select candidates from table where incumbent = sam m. gibbons\n"}
+{"prompt":"how many times was the candidates dan mica (d) 55.3% bill james (r) 44.7%? ->","completion":" select count incumbent from table where candidates = dan mica (d) 55.3% bill james (r) 44.7%\n"}
+{"prompt":"what was the result where the candidates are sam m. gibbons (d) unopposed? ->","completion":" select result from table where candidates = sam m. gibbons (d) unopposed\n"}
+{"prompt":"who is the incumbent where the district is florida 9? ->","completion":" select incumbent from table where district = florida 9\n"}
+{"prompt":"What is Phil Crane, democrat or republican  ->","completion":" select party from table where incumbent = phil crane\n"}
+{"prompt":"What year was Frank Annunzio elected ->","completion":" select min first elected from table where incumbent = frank annunzio\n"}
+{"prompt":"How many districts does Ed Jones represent? ->","completion":" select count district from table where incumbent = ed jones\n"}
+{"prompt":"What's the year of the first election of the district whose incumbent is Edwin E. Willis? ->","completion":" select first elected from table where incumbent = edwin e. willis\n"}
+{"prompt":"What district is F. Edward Hebert the incumbent in? ->","completion":" select district from table where incumbent = f. edward hebert\n"}
+{"prompt":"Who were the candidates in the district whose incumbent is Joe Waggonner? ->","completion":" select candidates from table where incumbent = joe waggonner\n"}
+{"prompt":"What's the district that Otto Passman is the incumbent of? ->","completion":" select district from table where incumbent = otto passman\n"}
+{"prompt":"What is the district that has a republican? ->","completion":" select district from table where party = republican\n"}
+{"prompt":"What party is incumbent thomas j. lane from? ->","completion":" select party from table where incumbent = thomas j. lane\n"}
+{"prompt":"What is the last year that someone is first elected in this table? ->","completion":" select max first elected from table\n"}
+{"prompt":" how many party with candidates being alton lennon (d) 89.0% c. dana malpass (r) 11.0% ->","completion":" select count party from table where candidates = alton lennon (d) 89.0% c. dana malpass (r) 11.0%\n"}
+{"prompt":" how many first elected with district being north carolina 2 ->","completion":" select count first elected from table where district = north carolina 2\n"}
+{"prompt":"what's the incumbent with district being north carolina 6 ->","completion":" select incumbent from table where district = north carolina 6\n"}
+{"prompt":"what's the party with incumbent being herbert covington bonner ->","completion":" select party from table where incumbent = herbert covington bonner\n"}
+{"prompt":"what's the district with incumbent being lawrence h. fountain ->","completion":" select district from table where incumbent = lawrence h. fountain\n"}
+{"prompt":"what's the candidates with party being democratic and dbeingtrict being north carolina 1 ->","completion":" select candidates from table where party = democratic and district = north carolina 1\n"}
+{"prompt":"What was the result of the election of incumbent john shelley? ->","completion":" select result from table where incumbent = john shelley\n"}
+{"prompt":"What candidates ran in the election that included john shelley? ->","completion":" select candidates from table where incumbent = john shelley\n"}
+{"prompt":"What was the result of the election of the incumbent clyde doyle? ->","completion":" select result from table where incumbent = clyde doyle\n"}
+{"prompt":"What was the result of the election in california 2? ->","completion":" select result from table where district = california 2\n"}
+{"prompt":"What was the result of the election of the incumbent harry r. sheppard? ->","completion":" select result from table where incumbent = harry r. sheppard\n"}
+{"prompt":"What party did Frank J. Becker represent? ->","completion":" select party from table where incumbent = frank j. becker\n"}
+{"prompt":"What number of party had a candidate  resigned when appointed judge democratic hold? ->","completion":" select count party from table where result = resigned when appointed judge democratic hold\n"}
+{"prompt":"What district did incumbent Ralph A. Gamble represent? ->","completion":" select district from table where incumbent = ralph a. gamble\n"}
+{"prompt":"Who is the incumbent candidate in the election of percy priest (d) 90.8% robert m. donihi (r) 9.2%? ->","completion":" select incumbent from table where candidates = percy priest (d) 90.8% robert m. donihi (r) 9.2%\n"}
+{"prompt":"What district is tom j. murray from? ->","completion":" select district from table where incumbent = tom j. murray\n"}
+{"prompt":"What candidates were in the election when james patrick sutton was incumbent? ->","completion":" select candidates from table where incumbent = james patrick sutton\n"}
+{"prompt":"What district has Albert Rains as their representative? ->","completion":" select district from table where incumbent = albert rains\n"}
+{"prompt":"Carl Elliott is a member of which party? ->","completion":" select party from table where incumbent = carl elliott\n"}
+{"prompt":"How many were first elected when the incumbent was Morgan M. Moulder? ->","completion":" select count first elected from table where incumbent = morgan m. moulder\n"}
+{"prompt":"In what year was Phil J. Welch first elected? ->","completion":" select first elected from table where incumbent = phil j. welch\n"}
+{"prompt":"What party was Dewey Short associated with? ->","completion":" select party from table where incumbent = dewey short\n"}
+{"prompt":"What is the district with Republican party in place? ->","completion":" select district from table where party = republican\n"}
+{"prompt":"Who ran for office in the Alabama 1 district? ->","completion":" select candidates from table where district = alabama 1\n"}
+{"prompt":"What year was first elected william m. wheeler (d) unopposed? ->","completion":" select first elected from table where candidates = william m. wheeler (d) unopposed\n"}
+{"prompt":"What district does  incumbent  james c. davis represent? ->","completion":" select district from table where incumbent = james c. davis\n"}
+{"prompt":"What district is incumbent melvin price from? ->","completion":" select district from table where incumbent = melvin price\n"}
+{"prompt":"What district is incumbent sid simpson from? ->","completion":" select district from table where incumbent = sid simpson\n"}
+{"prompt":"Who was the candidate in the election in the Tennessee 9 district?  ->","completion":" select candidates from table where district = tennessee 9\n"}
+{"prompt":"When was the Tennessee 3 district incumbent first elected?  ->","completion":" select max first elected from table where district = tennessee 3\n"}
+{"prompt":"What district was Harold Earthman the incumbent in?  ->","completion":" select district from table where incumbent = harold earthman\n"}
+{"prompt":"Name the result for new york 1 ->","completion":" select result from table where district = new york 1\n"}
+{"prompt":"Name the first elected for lost renomination democratic loss ->","completion":" select first elected from table where result = lost renomination democratic loss\n"}
+{"prompt":"How many results have Jere Cooper as incumbent? ->","completion":" select result from table where incumbent = jere cooper\n"}
+{"prompt":"Who won the election of 1942 in the district Illinois 13? ->","completion":" select incumbent from table where district = illinois 13\n"}
+{"prompt":"Who ran for the House in the 1924 election? ->","completion":" select candidates from table where first elected = 1924\n"}
+{"prompt":"What year was Stephen Pace elected? ->","completion":" select min first elected from table where incumbent = stephen pace\n"}
+{"prompt":"How many incumbents were elected in the 1926 election? ->","completion":" select count incumbent from table where first elected = 1926\n"}
+{"prompt":"Who were the candidates when Noble Jones Gregory was incumbent? ->","completion":" select candidates from table where incumbent = noble jones gregory\n"}
+{"prompt":"What is the district for harry lane englebright? ->","completion":" select district from table where incumbent = harry lane englebright\n"}
+{"prompt":"What is the result for california 2? ->","completion":" select result from table where district = california 2\n"}
+{"prompt":"What is the party for richard j. welch? ->","completion":" select party from table where incumbent = richard j. welch\n"}
+{"prompt":"How many winners were there in the race of 1922 ->","completion":" select count incumbent from table where first elected = 1922\n"}
+{"prompt":"Who was the incumbent when henry e. barbour ran? ->","completion":" select candidates from table where incumbent = henry e. barbour\n"}
+{"prompt":" how many party with incumbent being whitmell p. martin ->","completion":" select count party from table where incumbent = whitmell p. martin\n"}
+{"prompt":"who is the the candidates with incumbent being james o'connor ->","completion":" select candidates from table where incumbent = james o'connor\n"}
+{"prompt":" how many incumbent with first elected being 1924 ->","completion":" select count incumbent from table where first elected = 1924\n"}
+{"prompt":"Name the incumbent for kentucky 9 ->","completion":" select incumbent from table where district = kentucky 9\n"}
+{"prompt":"Name the party or first elected is 1920 ->","completion":" select party from table where first elected = 1920\n"}
+{"prompt":"What is the candidates for first elected 1914 ->","completion":" select candidates from table where first elected = 1914\n"}
+{"prompt":"What was the result of the election for incumbent Cordell Hull? ->","completion":" select result from table where incumbent = cordell hull\n"}
+{"prompt":"Cordell Hull is the incumbent in how many districts? ->","completion":" select count district from table where incumbent = cordell hull\n"}
+{"prompt":"What was the total number of votes for Tom Connally ->","completion":" select min first elected from table where incumbent = tom connally\n"}
+{"prompt":"What year was incumbent william f. stevenson first elected? ->","completion":" select first elected from table where incumbent = william f. stevenson\n"}
+{"prompt":"What is the last year on this list someone was first elected? ->","completion":" select max first elected from table\n"}
+{"prompt":"What candidate was featured in the election for incumbent samuel j. nicholls' seat? ->","completion":" select candidates from table where incumbent = samuel j. nicholls\n"}
+{"prompt":"What is the last year incumbent frederick h. dominick was first elected? ->","completion":" select max first elected from table where incumbent = frederick h. dominick\n"}
+{"prompt":"Who were the candidates when the winner was first elected in 1910? ->","completion":" select candidates from table where first elected = 1910\n"}
+{"prompt":"What was the winning party when the incumbent was richard s. whaley? ->","completion":" select party from table where incumbent = richard s. whaley\n"}
+{"prompt":"How many different set of candidates were there when the incumbent was david e. finley? ->","completion":" select count candidates from table where incumbent = david e. finley\n"}
+{"prompt":"What was the winning part in the district of South Carolina 3? ->","completion":" select party from table where district = south carolina 3\n"}
+{"prompt":"Who were the candidates in the district of South Carolina 5? ->","completion":" select candidates from table where district = south carolina 5\n"}
+{"prompt":"When was incumbent John N. Tillman first elected? ->","completion":" select min first elected from table where incumbent = john n. tillman\n"}
+{"prompt":"What was the location and attendance when the team's record was 16-44? ->","completion":" select location attendance from table where record = 16-44\n"}
+{"prompt":"What day was the game at chicago? ->","completion":" select date from table where team = chicago\n"}
+{"prompt":"Who were the high point scorers in game 7? ->","completion":" select high points from table where game = 7\n"}
+{"prompt":"Who had the high rebound total against golden state? ->","completion":" select high rebounds from table where team = golden state\n"}
+{"prompt":"how many times have there been helps by damon stoudamire (13) ->","completion":" select count record from table where high assists = damon stoudamire (13)\n"}
+{"prompt":"who made the recovers where the score is 12-30 ->","completion":" select high rebounds from table where record = 12-30\n"}
+{"prompt":"tell who made the most scores on new jersey ->","completion":" select high points from table where team = new jersey\n"}
+{"prompt":"how many times was the participation at omni coliseum 7,194? ->","completion":" select game from table where location attendance = omni coliseum 7,194\n"}
+{"prompt":"The minimum average number of dancers is 34.1 how many times ->","completion":" select min number of dances from table where average = 34.1\n"}
+{"prompt":"What is the Number of dances is 11 and competition finish is larger than 2.0 total ->","completion":" select total from table where number of dances = 11 and competition finish > 2.0\n"}
+{"prompt":"Who is the club that has 30 points? ->","completion":" select club from table where points = 30\n"}
+{"prompt":"What were all the tries for when the try bonus was 8? ->","completion":" select tries for from table where try bonus = 8\n"}
+{"prompt":"What were the points for when there were 30 tries against? ->","completion":" select points for from table where tries against = 30\n"}
+{"prompt":"How many numbers were recorded points against  when the tries were for 43? ->","completion":" select count points against from table where tries for = 43\n"}
+{"prompt":"What are the tries against  when points against 287? ->","completion":" select tries against from table where points against = 287\n"}
+{"prompt":"What were all the points for Tonyrefail RFC? ->","completion":" select points for from table where club = tonyrefail rfc\n"}
+{"prompt":"Pink cytoplasm is seen in a test that specifically stains what? ->","completion":" select specifically stains from table where cytoplasm = pink\n"}
+{"prompt":"How many cytoplasms result in a blue nucleus? ->","completion":" select count cytoplasm from table where nucleus = blue\n"}
+{"prompt":"A nucleus that is blue\/black will specifically stain what? ->","completion":" select specifically stains from table where nucleus = blue\/black\n"}
+{"prompt":"The pink cytoplasm will have a nucleus of what color? ->","completion":" select nucleus from table where cytoplasm = pink\n"}
+{"prompt":"What stain is used commonly for elastic fibers? ->","completion":" select stain from table where common use = elastic fibers\n"}
+{"prompt":"where is hte second place winner from united kingdom? ->","completion":" select winner from table where second place = united kingdom\n"}
+{"prompt":"how many locations has spain as the winner? ->","completion":" select count location from table where winner = spain\n"}
+{"prompt":"who is the artist performing at heineken music hall? ->","completion":" select artist from table where venue = heineken music hall\n"}
+{"prompt":"what amount has spain as second place and the language is russian? ->","completion":" select count margin from table where second place = spain and language = russian\n"}
+{"prompt":"how many Curtiss XBTC aircraft are retired? ->","completion":" select count retired from table where aircraft type = curtiss xbtc\n"}
+{"prompt":"How many Airspeed Fleet Shadower aircraft are retired? ->","completion":" select retired from table where aircraft type = airspeed fleet shadower\n"}
+{"prompt":"What is the origin of aircraft in service in 1943 and retired in 1954? ->","completion":" select national origin from table where retired = 1954 and in service = 1943\n"}
+{"prompt":"Who was the winner when the time was 1:24.00? ->","completion":" select winner\/2nd from table where time = 1:24.00\n"}
+{"prompt":"How many results were there for the Stan Fox Stakes race? ->","completion":" select count result from table where race = stan fox stakes\n"}
+{"prompt":"Was the rosehill venue a win or loss? ->","completion":" select result from table where venue = rosehill\n"}
+{"prompt":"what is the minimum total with kerry % being 16.71% ->","completion":" select min total from table where kerry % = 16.71%\n"}
+{"prompt":"what is the minimum kerry # with bush % being 78.40% ->","completion":" select min kerry # from table where bush % = 78.40%\n"}
+{"prompt":"what's the kerry # with county being ness county, kansas ->","completion":" select kerry # from table where county = ness county, kansas\n"}
+{"prompt":" how many total with bush # being 1552 ->","completion":" select count total from table where bush # = 1552\n"}
+{"prompt":"what is the minimum bush # with kerry # being 3938 ->","completion":" select min bush # from table where kerry # = 3938\n"}
+{"prompt":" how many total with county being rooks county, kansas ->","completion":" select count total from table where county = rooks county, kansas\n"}
+{"prompt":"In which district was the incumbent Dick Saslaw?  ->","completion":" select district from table where incumbent = dick saslaw\n"}
+{"prompt":"What was the 2007 result in the district where the incumbent was elected in 1996?  ->","completion":" select 2007 result from table where elected = 1996\n"}
+{"prompt":"What was the 2007 result in the 28th district?  ->","completion":" select 2007 result from table where district = 28th\n"}
+{"prompt":"In what district was the incumbent Charles Hawkins?  ->","completion":" select district from table where incumbent = charles hawkins\n"}
+{"prompt":"What's the number of the game played on March 26? ->","completion":" select max game from table where date = march 26\n"}
+{"prompt":"How many different values if the number is high rebounds can be found for the game on March 13? ->","completion":" select count high rebounds from table where date = march 13\n"}
+{"prompt":"Who ihad the highest points and what was the number when the record was 11-40? ->","completion":" select high points from table where record = 11-40\n"}
+{"prompt":"Who did the Raptors play when their record was 45-36?  ->","completion":" select team from table where record = 45-36\n"}
+{"prompt":"What number game of the season was played on April 12?  ->","completion":" select max game from table where date = april 12\n"}
+{"prompt":"How many votes were cast in Wayne county? ->","completion":" select max total # from table where county = wayne\n"}
+{"prompt":"In the county where Bush won 77.76%, how many total votes were cast? ->","completion":" select total # from table where bush % = 77.76%\n"}
+{"prompt":"In the country where Bush won 4333 votes, what percentage did other receive? ->","completion":" select other % from table where bush # = 4333\n"}
+{"prompt":"Who was the TO winning team when the TU winning team was Joe Richardson?  ->","completion":" select to winning team from table where tu winning team = joe richardson\n"}
+{"prompt":"On what circuit was the GTU winning team #59 Brumos Porsche - Audi in round 5?  ->","completion":" select circuit from table where rnd = 5 and gtu winning team = #59 brumos porsche - audi\n"}
+{"prompt":"Who was the GTU winning team when the TO winning team was #3 Camaro?  ->","completion":" select gtu winning team from table where to winning team = #3 camaro\n"}
